@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TolkappiyamForVirtualAcademy", "TolkappiyamForVirtualAcademy\TolkappiyamForVirtualAcademy.csproj", "{284C386B-D4E5-4B54-BD96-53EA4E2AABAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tolkappiyam.Tools", "Tolkappiyam.Tools\Tolkappiyam.Tools.csproj", "{B5477D61-934F-42A6-BD87-D2FB8BCE5B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284C386B-D4E5-4B54-BD96-53EA4E2AABAB}.Debug|x86.ActiveCfg = Debug|x86
+		{284C386B-D4E5-4B54-BD96-53EA4E2AABAB}.Debug|x86.Build.0 = Debug|x86
+		{284C386B-D4E5-4B54-BD96-53EA4E2AABAB}.Release|x86.ActiveCfg = Release|x86
+		{284C386B-D4E5-4B54-BD96-53EA4E2AABAB}.Release|x86.Build.0 = Release|x86
+		{B5477D61-934F-42A6-BD87-D2FB8BCE5B6A}.Debug|x86.ActiveCfg = Debug|x86
+		{B5477D61-934F-42A6-BD87-D2FB8BCE5B6A}.Debug|x86.Build.0 = Debug|x86
+		{B5477D61-934F-42A6-BD87-D2FB8BCE5B6A}.Release|x86.ActiveCfg = Release|x86
+		{B5477D61-934F-42A6-BD87-D2FB8BCE5B6A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

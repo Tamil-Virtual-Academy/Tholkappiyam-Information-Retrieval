@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{284C386B-D4E5-4B54-BD96-53EA4E2AABAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TolkappiyamForVirtualAcademy</RootNamespace>
+    <AssemblyName>TolkappiyamForVirtualAcademy</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsGlossary.cs" />
+    <Compile Include="clsParsingExtraction.cs" />
+    <Compile Include="frmSubIndexing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubIndexing.Designer.cs">
+      <DependentUpon>frmSubIndexing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTolMainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTolMainform.Designer.cs">
+      <DependentUpon>frmTolMainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlConcordancer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlConcordancer.Designer.cs">
+      <DependentUpon>UsrCtrlConcordancer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlExtraction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlExtraction.Designer.cs">
+      <DependentUpon>UsrCtrlExtraction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlIndexing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlIndexing.Designer.cs">
+      <DependentUpon>UsrCtrlIndexing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlNgram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlNgram.Designer.cs">
+      <DependentUpon>UsrCtrlNgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlParsing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlParsing.Designer.cs">
+      <DependentUpon>UsrCtrlParsing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlPhonological.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlPhonological.Designer.cs">
+      <DependentUpon>UsrCtrlPhonological.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlPosExtract.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlPosExtract.Designer.cs">
+      <DependentUpon>UsrCtrlPosExtract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlRootExtract.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlRootExtract.Designer.cs">
+      <DependentUpon>UsrCtrlRootExtract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlStatistical.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlStatistical.Designer.cs">
+      <DependentUpon>UsrCtrlStatistical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlSuffix.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlSuffix.Designer.cs">
+      <DependentUpon>UsrCtrlSuffix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlSuffixMorpho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlSuffixMorpho.Designer.cs">
+      <DependentUpon>UsrCtrlSuffixMorpho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlTechTerms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlTechTerms.Designer.cs">
+      <DependentUpon>UsrCtrlTechTerms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlTokenizer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlTokenizer.Designer.cs">
+      <DependentUpon>UsrCtrlTokenizer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlWordExtract.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlWordExtract.Designer.cs">
+      <DependentUpon>UsrCtrlWordExtract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlWordFrequency.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlWordFrequency.Designer.cs">
+      <DependentUpon>UsrCtrlWordFrequency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsrCtrlMorpho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsrCtrlMorpho.Designer.cs">
+      <DependentUpon>UsrCtrlMorpho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities.cs" />
+    <EmbeddedResource Include="frmSubIndexing.resx">
+      <DependentUpon>frmSubIndexing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTolMainform.resx">
+      <DependentUpon>frmTolMainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlConcordancer.resx">
+      <DependentUpon>UsrCtrlConcordancer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlExtraction.resx">
+      <DependentUpon>UsrCtrlExtraction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlIndexing.resx">
+      <DependentUpon>UsrCtrlIndexing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlNgram.resx">
+      <DependentUpon>UsrCtrlNgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlParsing.resx">
+      <DependentUpon>UsrCtrlParsing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlPhonological.resx">
+      <DependentUpon>UsrCtrlPhonological.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlPosExtract.resx">
+      <DependentUpon>UsrCtrlPosExtract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlRootExtract.resx">
+      <DependentUpon>UsrCtrlRootExtract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlStatistical.resx">
+      <DependentUpon>UsrCtrlStatistical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlSuffix.resx">
+      <DependentUpon>UsrCtrlSuffix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlSuffixMorpho.resx">
+      <DependentUpon>UsrCtrlSuffixMorpho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlTechTerms.resx">
+      <DependentUpon>UsrCtrlTechTerms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlTokenizer.resx">
+      <DependentUpon>UsrCtrlTokenizer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlWordExtract.resx">
+      <DependentUpon>UsrCtrlWordExtract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlWordFrequency.resx">
+      <DependentUpon>UsrCtrlWordFrequency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsrCtrlMorpho.resx">
+      <DependentUpon>UsrCtrlMorpho.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\apple.jpg" />
+    <Content Include="Images\query.png" />
+    <None Include="Resources\Close3b.png" />
+    <None Include="Resources\Close3a.png" />
+    <None Include="Resources\Terms2.jpg" />
+    <None Include="Resources\Terms1.jpg" />
+    <None Include="Resources\Suffix2.jpg" />
+    <None Include="Resources\Suffix1.jpg" />
+    <None Include="Resources\Statistical2.jpg" />
+    <None Include="Resources\Statistical1.jpg" />
+    <None Include="Resources\Phono2.jpg" />
+    <None Include="Resources\Phono1.jpg" />
+    <None Include="Resources\Parse2.jpg" />
+    <None Include="Resources\Parse1.jpg" />
+    <None Include="Resources\Index2.jpg" />
+    <None Include="Resources\Index1.jpg" />
+    <None Include="Resources\Extract11.jpg" />
+    <None Include="Resources\Extract2.jpg" />
+    <None Include="Resources\Extract1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tolkappiyam.Tools\Tolkappiyam.Tools.csproj">
+      <Project>{B5477D61-934F-42A6-BD87-D2FB8BCE5B6A}</Project>
+      <Name>Tolkappiyam.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="UserControl\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,2005 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tolkappiyam>
+  <TechnicalTerm>
+    <Keyword>விரவுப்பெயர்</Keyword>
+    <Explanation>உயர்திணைக்கும் அஃறிணைக்கும் பொதுவாக உள்ள பெயர். (எ-கா.) சிதம்பரம் பெரியவர். சிதம்பரம்  பெரியது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>தொகை மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அல்வழி</Keyword>
+    <Explanation>இரண்டு பெயர்க்ககிடையே வேற்றுமை உறவு அல்லாத உறவு. (எ.கா.)  மரம் கிடந்தது - அல்வழி உறவு ; மரக்கிளை - வேற்றுமை உறவு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>தொகை மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அளபு</Keyword>
+    <Explanation>ஒரு எழுத்தை உச்சரிக்க ஆகும் நேரம்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆய்தத்தொடர்மொழி குற்றியலுகரம்</Keyword>
+    <Explanation>சொல்லிறுதி குற்றியலுகரத்ததிற்கு முன்னர் ஆய்தம் வந்தால், அது ஆய்தத்தொடர்மொழிக் குற்றியலுகரமாகும். (எ.கா.) அஃது, கஃசு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>குற்றியலுகரப் புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆய்தம்</Keyword>
+    <Explanation>பிற எழுத்துகளைச் சார்ந்துவரும் தன்மையுடைய ஒரு எழுத்து. இது 'எழுத்தோரன்ன' என்று அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa>குறியதன் முன்னர் ஆய்தப் புள்ளி, உயிரொடு புணர்ந்த வல் ஆறன் மிசைத்தே</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இடம்வரை கிளவி</Keyword>
+    <Explanation>ஒரு இடத்தைப் பொதுவாகக் கூறாமல், இன்ன இடம் என்று வரையறுத்துக் கூறும் சொல் இடம்வரைக் கிளவி என்றழைக்கப்படுகிறது. (எ.கா.) மீ கண், மீ செவி</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இடர்க்கப்பெயர்</Keyword>
+    <Explanation>சான்றோர் அவையில் நேரடியாகக் கூறக்கூடாத சொற்கள். (எ.கா.) பீ</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இடைத்தொடர்</Keyword>
+    <Explanation>குற்றியலுகர ஈற்றுச் சொற்களில் இறுதிக் குற்றியலகரத்திற்குமுன் இடையின எழுத்துகள் வந்தால் அவை இடைத்தொடர்க் குற்றியலுகரம் என்று அழைக்கப்படும். (எ.கா.) வரகு,பழகு, மிளகு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>குற்றியலுகரப் புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இடையெழுத்து</Keyword>
+    <Explanation>ய்-ர்-ல்-வ்-ழ்-ள் என்ற ஆறு எழுத்தும் இடையெழுத்தாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இடையெழுத்து என்ப ய-ர-ல-வ-ழ-ள</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஈரெழுத்தொருமொழி</Keyword>
+    <Explanation>நெடிலை முதலாகக்கொண்ட ஈரெழுத்துகளைமட்டுமே உடைய காடு, ஆடு போன்ற சொற்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>குற்றியலுகரப் புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உடம்படுமெய்</Keyword>
+    <Explanation>தமிழ்ச் சொற்களில் ஒரு உயிரை அடுத்து மற்றொரு உயர் வராது. அவ்வாறு வரும் இடங்களில் அந்த இரண்டு உயிர்களுக்கு இடையில் ந் அல்லது வ் என்ற மெய் எழுத்துகள் வரும். இதுவே உடம்படுமெய் என அழைக்கப்படுகிறது. (எ-கா.) தெரு+ஆ = தெருவா ; இலை+ஆ - இலையா</Explanation>
+    <Explanation1 />
+    <Noorpa>எல்லா மொழிக்கும் உயிர்வரு வழியே, உடம்படு மெய்யின் உருவுகொளல் வரையார்</Noorpa>
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உயர்திணைப் பெயர்</Keyword>
+    <Explanation>மக்களைச் சுட்டி நிற்கும் பெயர்ச்சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>தொகை மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உயிர்</Keyword>
+    <Explanation>அ முதல் ஔ வரை உள்ள 12 எழுத்துகளும் உயிர் எழுத்துகளாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஔகார இறுவாய்ப் பன்னீர் எழுத்தும் உயிர் என மொழிப</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உயிர்த்தொடர்க் குற்றியலுகரம்</Keyword>
+    <Explanation>சொல்லிறுதிக் குற்றியலுகரத்திற்கு முன் உயிர் எழுத்து வந்தால், அது உயிர்த்தொடர்க் குற்றியலுகரம் என்று அழைக்கப்படும். (எ-கா.) அழகு, பழகு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>குற்றியலுகரப் புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உரைப்பொருட்கிளவி</Keyword>
+    <Explanation />
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உரையசைக் கிளவி</Keyword>
+    <Explanation>தனகக்கென்று பொருள் இல்லாமல், இசை நிரப்புவதற்காக முன்னிலைச்சொற்களில் வரும் மியா போன்றவையே உரையசையாகும். இதைக்கொண்டு அமையும் முன்னிலைச் சொற்களே உரையசைக்கிளவிகளாகும். (எ.கா.) கேண்மியா, சென்மியா</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உவமக் கிளவி</Keyword>
+    <Explanation>உவமை உருபு இணைந்துவரும் சொல் (எ.கா.) பூப்போலச் சிரித்தான்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எழுத்தெனப்படுப</Keyword>
+    <Explanation>அ முதல் ஔ இறுதியான  12 உயிர் எழுத்துகளும் க் முதல் ன் வரையிலான 18 மெய் எழுத்துகளும் எழுத்துகள் என்று அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>எழுத்து எனப்படுப, அகரம் முதல், னகர இறுவாய் முப்பஃது என்ப</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எழுத்தோரன்ன</Keyword>
+    <Explanation>தனித்து வராமல், பிற எழுத்துகளைச் சார்ந்துவரும் குற்றியலுகரம், குற்றியலிகரம், ஆய்தம் மூன்றும் எழுத்தோரன்ன என்று அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>சார்ந்து வரல் மரபின் மூன்று அலங்கடையே, அவைதாம், குற்றியலிகரம் குற்றியலுகரம், ஆய்தம் என்ற, முப்பாற்புள்ளியும் எழுத்து ஓரன்ன</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஓரெழுத்து மொழி</Keyword>
+    <Explanation>ஆ, ஈ போன்ற ஒரு எழுத்தைமட்டுமே கொண்ட சொற்கள் ஓரெழுத்தொரு மொழி என அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கிளைப்பெயர்</Keyword>
+    <Explanation>சில குடிகளில் வழங்கப்படும் கிளைப் பெயர்கள் . (எ.கா.) வீணையன் கிளை, கற்பகக் கிளை</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புள்ளி மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குறித்துவருகிளவி</Keyword>
+    <Explanation>புணர்ச்சியில் நிலைமொழிக்குப் பின்னர் வரும் சொல்லானது குறித்துவரு கிளவி அல்லது வருமொழி என்று அழைக்கப்படுகிறது. .</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குற்றியலிகரம்</Keyword>
+    <Explanation>குற்றியலுகரத்தை இறுதியாகக்கொண்ட நிலைமொழிகளுக்குமுன்பாக இ என்ற எழுத்தை முதலாகக்கொண்ட சொற்கள் வந்து புணரும்போது, நிலைமொழியிறுதிக் குற்றியலுகரமானது குற்றியலிகரமாகத் திரியும்.. அதாவது அரைமாத்திரை அளவில் இகரம் ஒலிக்கும். (எ.கா.) அஃது+யாது = அஃதியாது</Explanation>
+    <Explanation1 />
+    <Noorpa>குற்றியலிகரம் நிற்றல் வேண்டும், யா என் சினைமிசை உரையசைக் கிளவிக்கு, ஆ வயின் வரூஉம் மகரம் ஊர்ந்தே</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குற்றியலுகரம்</Keyword>
+    <Explanation>தனக்குரிய ஒரு மாத்திரை அளவிலிருந்து குறைந்து ஒலிக்கும் உகரம் குற்றியலுகரம் என்று அழைக்கப்படும். மேலும் இது சொல்லிறுதியில் வல்லின எழுத்துகளான க்,ச்,ட்,த்,ப், ற் என்னும் ஆறு வல்லினங்களோடு இணைந்து வரும். (எ.கா.) பாக்கு, காசு, காடு, காது, காப்பு, ஆறு</Explanation>
+    <Explanation1 />
+    <Noorpa>நெட்டெழுத்து இம்பரும் தொடர்மொழி ஈற்றும், குற்றியலுகரம் வல் ஆறு ஊர்ந்தே</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குற்றெழுத்து</Keyword>
+    <Explanation>12 உயிர் எழுத்துகளில் ஒரு மாத்திரை அளபு ஒலிக்கப்படும் அ, இ, உ, எ, ஒ என்ற ஐந்தும் குற்றெழுத்துகள் அல்லது குறில்கள் என அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>அ-இ-உ எ-ஒ என்னும் அப் பால் ஐந்தும், ஓர் அளபு இசைக்கும் குற்றெழுத்து என்ப</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெய் குன்றல்</Keyword>
+    <Explanation>புணர்ச்சியில் நிலைமொழியும் வருமொழியும் இணையும்போது, நிலைமொழியின் இறுதி மெய் எழுத்துகள் மறைந்தால், அது குன்றல் என அழைக்கப்படும். மரம்+வேர் = மரவேர் . இங்கு நிலைமொழியிறுதி ம் மறைகிறது. இதுவே குன்றல் என புணர்ச்சியில் அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சாரியை</Keyword>
+    <Explanation>இரு சொற்கள் இணையும்போது, அவற்றிற்கிடையே பொருண்மையிலாத விகுதிகள் இணைந்தால், அவை சாரியை என வழங்கப்படும். (எ-கா.) மரம்+ ஐ = மரத்தை. இங்கு அத்து என்பது சாரியை.</Explanation>
+    <Explanation1 />
+    <Noorpa>சொற் சிதர் மருங்கின் வழி வந்து விளங்காது, இடை நின்று இயலும் சாரியை இயற்கை</Noorpa>
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சுட்டு</Keyword>
+    <Explanation>அ, இ, உ மூன்றும் இடங்களைச் சுட்டிக்காட்டும் தன்மையுடையதால், சுட்டு என அழைக்கப்படுகின்றன. (எ-கா.) அவன்,இவன், உவன்</Explanation>
+    <Explanation1 />
+    <Noorpa>அ-இ-உ அம் மூன்றும் சுட்டு</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தொழில்நிலைக் கிளவி</Keyword>
+    <Explanation>வினைச்சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தொழிற்சொல்</Keyword>
+    <Explanation>வினைச்சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>தொகை மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நிறுத்தசொல்</Keyword>
+    <Explanation>புணரர்ச்சியில் முதற்சொல்லாக நிற்கும் நிலைமொழிச் சொல்லானது நிறுத்தசொல் என அழைக்கப்படுகிறது. நிலைமொழி என்றும் அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நெட்டெழுத்து</Keyword>
+    <Explanation>இரண்டு மாத்திரைகள் அளபு ஒலிக்கும் உயிர் எழுத்துகளான ஆ-ஈ-ஊ-ஏ-ஐ ஓ-ஔ என்ற ஆறு எழுத்துகளும் நெட்டெழுத்து அல்லது நெடில் என அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆ-ஈ-ஊ-ஏ-ஐ ஓ-ஔ என்னும் அப் பால் ஏழும், ஈர் அளபு இசைக்கும் நெட்டெழுத்து என்ப</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>படர்க்கைப் பெயர்</Keyword>
+    <Explanation>தம்மையோ அல்லது முன்னால் இருப்பவர்களையோ குறிக்காமல் புறத்தே இருப்பவர்களைக் குறித்து நிற்கும் பெயர்ச்சொற்கள் படர்க்கைப் பெயர் என அழைக்கப்படுகின்றன. (எ-கா.) அவன், இவன், எவன்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புள்ளி மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெயரெஞ்சு கிளவி</Keyword>
+    <Explanation>வினையடியாகப் பிறந்து, முற்றுப் பெறாமல், தனக்கு அடுத்துவரும் பெயர்ச்சொற்களைக் கொண்டு முடியும் சொற்கள் பெயரெஞ்சு கிளவி என்று அழைக்கப்படுகின்றன. இவையே பெயரெச்சங்கள் என்றும் அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மகரக்குறுக்கம்</Keyword>
+    <Explanation>செய்யுளில் ஓசை கருதி, ம் என்ற மெய்யானது தன் அரை மாத்திரையிலிருந்து கால் மாத்திரையாகக் குறுகி ஒலிக்கும். (எ.கா.) போன்ம், மருண்ம்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மாத்திரை</Keyword>
+    <Explanation>கண்ணை ஒரு தடவை மூடித் திறக்க ஆகும் நேரமே மாத்திரை என அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa>கண் இமை நொடி என அவ்வே மாத்திரை</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மாறு கொள் எச்சம்</Keyword>
+    <Explanation>எதிர்மறை எச்சம் (எ.கா.) பார்க்காத, கூறாத</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெய் மிகுதல்</Keyword>
+    <Explanation>நிலைமொழியும் வருமொழியும் புணரும்போது, இடையில் புதிதாக ஒரு மெய் எழுத்து சேருதலே மெய் மிகுதல் என்று அழைக்கப்படுகின்றது. (எ.கா.) 'படித்து + பார் = படித்துப் பார்'</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெய்</Keyword>
+    <Explanation>க் முதல் ன் வரையிலான 18 எழுத்துகளும் மெய் என அழைக்கப்படுகின்றன. வாயறையில் நுழைந்து வெளிவரும் காற்றில் வாயுறுப்புகள் (அண்ணம், பல், நாக்கு, இதழ்கள் ) தங்களுக்குள் பொருந்தி,  தடை ஏற்படுத்தி ஒலியை வெளிப்படுத்தினால், அந்த பேச்சொலிகள் மெய் என வழங்கப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>னகார இறுவாய்ப் பதினெண் எழுத்தும் மெய் என மொழிப</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெய்பிறிதாதல்</Keyword>
+    <Explanation>நிலைமொழியும் வருமொழியும் புணரும்போது, நிலைமொழியின் இறுதி மெய்யோ அல்லது வருமொழியின் முதல் மெய்யோ  மாறி அமைந்தால், அது மெய் பிறிதாதல் என அழைக்கப்படுகிறது.(எ.கா.) பல்+பசை = பற்பசை ; கல்+தீது = கற்றீது</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெய்ம்மயக்கு</Keyword>
+    <Explanation>ஒரு சொல்லில் ஒரு மெய் எழுத்தையடுத்து மற்றொரு மெய் எழுத்து வருதல் மெய்ம்மயக்கமாகும். அடுத்து வருகிற மெய் எழுத்து முந்தைய மெய் எழுத்தாகவும் இருக்கலாம். வேறு மெய்யாகவும் இருக்கலாம். (எ.கா.) 'எழுத்து; என்பதில் 'த்' மெய்யையடுத்து, 'த்' என்ற மற்றொரு மெய் வருகிற</Explanation>
+    <Explanation1>இரண்டும் ஒரே மெய்யாக இருப்பதால், இது உடனிலை மெய்ம்மயக்கு என்று அழைக்கப்படுகிறது. 'கட்சி' என்பதில் 'ட்' என்ற மெய்யையடுத்து 'ச்' என்ற மற்றொரு மெய் வருவதால், இது வேற்றுநிலை மெய்ம்மயக்கு என்று அழைக்கப்படுகிறது.</Explanation1>
+    <Noorpa />
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெல்லெழுத்து</Keyword>
+    <Explanation>ங், ஞ், ண், ந், ம், ன் என்ற ஆறு மெய் எழுத்துகளும் மெல்லினம் என்று அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>மெல்லெழுத்து என்ப ங-ஞ-ண-ந-ம-ன</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மென்தொடர்க் குற்றியலுகரம்</Keyword>
+    <Explanation>நிலைமொழி இறுதிக் குற்றியலுகரத்திற்கு முன்னர், ஒரு மெல்லின எழுத்து வந்தால், அது மென்தொடர்க் குற்றியலுகரம் என அழைக்கப்படுகிறது. (எ.கா.) பஞ்சு, அஞ்சு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>குற்றியலுகரப் புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வல்லெழுத்து</Keyword>
+    <Explanation>க்,ச்,ட்,த்,ப்,ற் என்ற் ஆறு மெய் எழுத்துகளும் வல்லெழுத்து அல்லது வல்லினம் என அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>வல்லெழுத்து என்ப க-ச-ட-த-ப-ற</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வன்தொடர்க் குற்றியலுகரம்</Keyword>
+    <Explanation>நிலைமொழி இறுதிக் குற்றியலுகரத்திற்கு முன்னர் ஒரு வல்லின எழுத்து வந்தால், அது வன்தொடர்க் குற்றியலுகரம் என அழைக்கப்படுகிறது. (எ.கா.) 'படித்துப் பார்த்தான்' இத்தொடரில் நிலைமொழியான 'படித்து' என்பது வன்தொடர்க் குற்றியலுகரமாகும். இங்கு ஒற்று மிகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>குற்றியலுகரப் புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வியங்கோட் கிளவி</Keyword>
+    <Explanation>முன்னிலையில் ஒருவரை வேண்டுதல் அல்லது வாழ்த்துதல் போன்ற வினைச் சொற்கள். (எ.கா.) வாழ்க கண்ணா!' இங்கு இரு சொற்களுக்கும் இடையில் ஒற்று மிகாது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>விளிநிலைக் கிளவி</Keyword>
+    <Explanation>அண்மையில் இருக்கும் ஒருவரைப் பெயர்கொண்டு விளித்தால், அந்தப் பெயர்  விளிப்பெயர் கிளவியாகும். (எ.கா.) 'பழனி படிக்கப் போகிறாயா?' என்பதில் 'பழனி' என்பது விளிப்பெயர்க் கிளவியாகும். இதற்கு அடுத்த சொல்லானது வல்லினத்தில் தொடங்கினாலும் ('படிக்கப்' )  , இங்கு ஒற்று</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>விளிப்பெயர்க் கிளவி</Keyword>
+    <Explanation>அண்மையில் இருக்கும் ஒருவரைப் பெயர்கொண்டு விளித்தால், அந்தப் பெயர்  விளிப்பெயர் கிளவியாகும். (எ.கா.) 'கண்ணா சட்டை போடு' என்பதில் 'கண்ணா' என்பது விளிப்பெயர்க் கிளவியாகும். இதற்கு அடுத்த சொல்லானது வல்லினத்தில் தொடங்கினாலும் ('சட்டை' )  , இங்கு ஒற்று மிகாது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினா</Keyword>
+    <Explanation>ஆ-ஏ-ஓ அம் மூன்றும் வினாப் பொருள்களை வெளிப்படுத்தும் விகுதிகளாகும். (எ.கா.) 'அவரா வந்தார்?' , 'நீ தானே வந்தாய்?' 'அவரோ வந்தார்?'</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆ-ஏ-ஓ அம் மூன்றும் வினா</Noorpa>
+    <Chapter>நூன்மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினையெஞ்சு கிளவி</Keyword>
+    <Explanation>ஒரு வினைச்சொல்லானது நிணை எண் பால் விகுதி பெற்று வினைமுற்றாக அமையாமல், மற்றொரு வினைமுற்றைக் கொண்டு முடியும். (எ.கா.) 'அவர் வந்து பேசினார்'. இங்கு 'வந்து' என்ற சொல் வினைமுற்றுக்கான விகுதியைக் கொண்டு முடியாமல்,</Explanation>
+    <Explanation1>தனக்குப் பின் வருகிற 'பேசினார்' என்ற வினைமுற்றைக் கொண்டு முடிகிறது. இதை 'வினையெச்சம்' என்றும் கூறுவார்கள்.</Explanation1>
+    <Noorpa />
+    <Chapter>உயிர்மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வேற்றுமை</Keyword>
+    <Explanation>ஒரு தொடரில் அமையும் பெயர்களுக்கும் வினைகளுக்கும் இடையில் உள்ள உறவுகளை வேறுபடுத்திக் காட்டுவது வேற்றுமை என்பதாகும். (எ.கா.) ''குழந்தை கண்ணாடியை உடைத்தது''. இத்தொடரில் 'குழந்தை' என்னும் பெயருக்கும் 'உடைத்தது' என்னும் வினைமுற்றுக்கும் இடையில் உள்ள உறவு</Explanation>
+    <Explanation1>எழுவாய் உறவாகும். 'கண்ணாடி' என்பதற்கும் 'உடைத்தது' என்ற வினைமுற்றுக்கும் இடையில் உள்ள உறவு இரண்டாம் வேற்றுமை - செயப்படுபொருள் வேற்றுமை உறவாகும். 'உடை' என்ற செயலைச் செய்தது 'குழந்தை'. 'உடை' என்ற செயலால் பாதிப்புக்கு உட்பட்டது 'கண்ணாடி'.</Explanation1>
+    <Noorpa />
+    <Chapter>தொகை மரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வேற்றுமை உருபு</Keyword>
+    <Explanation>ஐ ஒடு கு இன் அது கண் என்பவை  பல்வேறு வேற்றுமை உறவுகளைக் காட்டும் வேற்றுமை உருபுகள் அல்லது விகுதிகளாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஐ ஒடு கு இன் அது கண் என்னும், அவ் ஆறு என்ப வேற்றுமை உருபே</Noorpa>
+    <Chapter>புணரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உயர்திணை</Keyword>
+    <Explanation>மக்களைச் சுட்டி நிற்கும் பெயர்ச்சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa>மக்கட் சுட்டே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அஃறிணை</Keyword>
+    <Explanation>மக்கள் அல்லாத ஏனைய உயிரினங்கள், உயிரற்ற பிற பொருள்கள், நிகழ்வுகள் ஆகியவற்றைச் சுட்டி நிற்கும் பெயர்ச்சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa>(மக்களல்லாத) அவரல பிறவே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆடூஉ அறிசொல்</Keyword>
+    <Explanation>ஆண்பால் ஒருமையைச் சுட்டிநிற்கும் பால் விகுதி</Explanation>
+    <Explanation1 />
+    <Noorpa>னஃகான் ஒற்றே ஆடூஉ அறி சொல்</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மகடூஉ அறிசொல்</Keyword>
+    <Explanation>பெண்பால் ஒருமையைச் சுட்டிநிற்கும் பால் விகுதி</Explanation>
+    <Explanation1 />
+    <Noorpa>ளஃகான் ஒற்றே மகடூ அறி சொல்</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பலரறி சொல்</Keyword>
+    <Explanation>உயர்திணை , பன்மையைச் சுட்டிநிற்கும்  விகுதிகள்</Explanation>
+    <Explanation1 />
+    <Noorpa>ரஃகான் ஒற்றும் பகர இறுதியும், மாரைக் கிளவி உளப்பட மூன்றும், நேரத் தோன்றும் பலர் அறி சொல்லே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முப்பாற்சொல்</Keyword>
+    <Explanation>ஆண்பால் ஒருமை, பெண்பால் ஒருமை,உயர்திணைப் பன்மை ஆகிய மூன்றையும் சுட்டிநிற்கும் விகுதிகள்</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆடூஉ அறி சொல் மகடூஉ அறி சொல், பல்லோர் அறியும் சொல்லொடு சிவணி, அம் முப் பாற்சொல் உயர்திணையவ்வே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஒன்றறி சொல்</Keyword>
+    <Explanation>அஃறிணை ஒருமையைச் சுட்டிநிற்கும் விகுதி</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒன்று அறி கிளவி த ற ட ஊர்ந்த, குன்றியலுகரத்து இறுதி ஆகும்</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பலவறி சொல்</Keyword>
+    <Explanation>அஃறிணைப் பன்மையைச் சுட்டிநிற்கும் விகுதி</Explanation>
+    <Explanation1 />
+    <Noorpa>அ ஆ வ என வரூஉம் இறுதி, அப் பால் மூன்றே பல அறி சொல்லே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பாலறி கிளவி</Keyword>
+    <Explanation>பெயர்ச்சொல், வினைச்சொல்  இரண்டிலும் திணை,எண்,பால் ஆகியவற்றைச் சுட்டிநிற்கும் விகுதிகள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செப்பு</Keyword>
+    <Explanation>ஒருவர் தன் கருத்தை வெளிப்படுத்தப் பயன்படுத்தும் தொடர் ; ஒருவகைப் பேச்சுச் செயல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினா</Keyword>
+    <Explanation>ஒருவர் பிறர் கருத்தை அறிந்துகொள்ளப் பயன்படுத்தும் தொடர் ; ஒருவகைப் பேச்சுச் செயல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சினைமுதற்கிளவி</Keyword>
+    <Explanation>பெருந்தோளன், மலர்க்கண்ணன் என இவ்வாறு சினையையும் முதலையும் சுட்டிநிற்கும் கிளவிகள் சினைமுதற்கிளவிகளாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆக்கக்கிளவி</Keyword>
+    <Explanation>ஆகு, ஆகியது, ஆனது போன்ற சொற்கள் செயற்கையாக ஆக்கப்படும் பொருள்களைக் கூறப் பயன்படுகிறது. இவையே ஆக்கக்கிளவி என்று அழைக்கப்படுகின்றன.(எ.கா.) 'தண்ணீர் சூடாகியது'; 'முகம் பொலிவானது'</Explanation>
+    <Explanation1 />
+    <Noorpa>செயற்கைப் பொருளை ஆக்கமொடு கூறல், ஆக்கம்தானே காரணம் முதற்றே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அடை</Keyword>
+    <Explanation>பெயர்ச்சொல்லின் பண்பை விளக்கும் சொல். (எ.கா.) பெரிய, சிறிய, பச்சை</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சினை</Keyword>
+    <Explanation>ஒன்றின் அல்லது ஒருவரின் உறுப்பைச் சுட்டிநிற்கும் பெயர்ச்சொல் (எ.கா.) கால், கை, மூக்கு, சிறகு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முதல்</Keyword>
+    <Explanation>முழுமையான ஒன்று அல்லது ஒருவர். (எ.கா.) வீடு, சிங்கம், கண்ணன்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பன்மைக்கிளவி</Keyword>
+    <Explanation>ஆர்' ' அன' என்ற விகுதிகள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உயர்சொற்கிளவி</Keyword>
+    <Explanation>'ஆர்' என்ற உயர்திணைப் பன்மைச் சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒருவரைக் கூறும் பன்மைக் கிளவியும், ஒன்றனைக் கூறும் பன்மைக் கிளவியும், வழக்கின் ஆகிய உயர் சொல் கிளவி</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தன்மை</Keyword>
+    <Explanation>மூவிடப் பெயர்களில் ஒன்று. நான், நாம் , நாங்கள் ஆகிய சொற்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முன்னிலை</Keyword>
+    <Explanation>மூவிடப் பெயர்களில் ஒன்று. நீ, நீர், நீங்கள் ஆகிய சொற்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>படர்க்கை</Keyword>
+    <Explanation>மூவிடப் பெயர்களில் ஒன்று. அவன், அவள், அவர், அது, அவை ஆகிய சொற்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தருசொல்</Keyword>
+    <Explanation>தருதல் என்ற செயலைக் குறித்து நிற்கும் 'தா' என்ற வினைச்சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வருசொல்</Keyword>
+    <Explanation>வருதல் என்ற செயலைக் குறித்து நிற்கும் 'வா' என்ற சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சுட்டுப்பெயர்</Keyword>
+    <Explanation>அவன், இவன், அவள், இவள், அவர், இவர், அது, இது, அவை, இவை ஆகிய சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa>பொருளொடு புணராச் சுட்டுப்பெயர் ஆயினும், பொருள் வேறுபடாஅது ஒன்று ஆகும்மே</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இயற்பெயர்</Keyword>
+    <Explanation>முருகன், வள்ளி போன்றவை இயற்பெயர்ச் சொற்களாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>காரணக்கிளவி</Keyword>
+    <Explanation>அதனால், இதனால் போன்ற காரணத்தை விளக்கும் சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இரட்டைக் கிளவி</Keyword>
+    <Explanation>கலகல, மடமட போன்ற சொற்கள் . இவை சேர்ந்தே வரும். கல அல்லது மட என்று சொன்னால் பொருள் கிடையாது.</Explanation>
+    <Explanation1 />
+    <Noorpa>இரட்டைக்கிளவி இரட்டில் பிரிந்து இசையா</Noorpa>
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பலபொருளொரு சொல்</Keyword>
+    <Explanation>மா, முயல் போன்ற ஒன்றுக்கு மேற்பட்ட பொருள்களை உடைய சொற்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>கிளவியாக்கம்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வேற்றுமை</Keyword>
+    <Explanation>ஒரு தொடரில் அமையும் பெயர்ச்சொற்களுக்கும் வினைச்சொற்களுக்கும் இடையில் உள்ள உறவை வெளிப்படுத்தும் அல்லது வேறுபடுத்திக் காட்டும் ஒரு இலக்கணக் கூறு. வேறுபட்ட  வேற்றுமை உறவுகளை வெளிக்காட்ட வேறுபட்ட விகுதிகள் உள்ளன.</Explanation>
+    <Explanation1 />
+    <Noorpa>அவைதாம், பெயர் ஐ ஒடு கு , இன் அது கண் விளி என்னும் ஈற்ற</Noorpa>
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>விளி</Keyword>
+    <Explanation>கண்ணா வா' ' முருகா போ' என ஒருவர் தன் முன்பு இருக்கிறவர்களை அழைத்து அல்லது விளித்துக் கூறுவதாகும். இவற்றில் பெயருக்கும் வினைக்கும் இடையில் உள்ள உறவே விளிவேற்றுமை என அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எழுவாய் வேற்றுமை</Keyword>
+    <Explanation>ஒரு பெயர்ச்சொல்லோ அல்லது பல பெயர்ச்சொற்களோ இணைந்து  உருபு ஏற்காமல் வினையைச் செய்தவர்களை வெளிப்படுத்தும் வேற்றுமை.  (எ.கா.)  'முருகன் வந்தான்' , 'முருகனும்  வள்ளியும் வந்தார்கள்'</Explanation>
+    <Explanation1 />
+    <Noorpa>எழுவாய் வேற்றுமை பெயர் தோன்று நிலையே</Noorpa>
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெயர்ப்பயனிலை</Keyword>
+    <Explanation>பொருண்மை சுட்டல் வியங்கொள வருதல் , வினை நிலை உரைத்தல் வினாவிற்கு ஏற்றல், பண்பு கொள வருதல் பெயர் கொள வருதல் என்று , அன்றி அனைத்தும் பெயர்ப் பயனிலையே</Explanation>
+    <Explanation1 />
+    <Noorpa>பொருண்மை சுட்டல் வியங்கொள வருதல் , வினை நிலை உரைத்தல் வினாவிற்கு ஏற்றல், பண்பு கொள வருதல் பெயர் கொள வருதல் என்று , அன்றி அனைத்தும் பெயர்ப் பயனிலையே</Noorpa>
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெயர்நிலைக்கிளவி</Keyword>
+    <Explanation>தொடரில் காலம் காட்டாது எழுவாயாக நிற்கும் பெயர்ச்சொற்கள் . இதற்கு விதிவிலக்கு வினையாலணையும் பெயர் ஆகும். அது காலம் காட்டும்.(எ.கா.) 'முருகன் வந்தான்' ( காலம் காட்டவில்லை). 'படித்தவர் வந்தார்' .</Explanation>
+    <Explanation1>இங்கு எழுவாயாக வரும் 'படித்தவர்' என்ற வினையாலணையும் பெயர் காலம் காட்டிநிற்கிறது.</Explanation1>
+    <Noorpa>பெயர்நிலைக் கிளவி காலம் தோன்றா , தொழில் நிலை ஒட்டும் ஒன்று அலங்கடையே</Noorpa>
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வேற்றுமைக் கிளவி</Keyword>
+    <Explanation>வேற்றுமைகளை ஏற்றுவரும் பெயர்ச்சொற்கள் வேற்றுமைக்கிளவிகள் என்று அழைக்கப்படுகிறது. ஒரு தொடரில் வருகிற எல்லாப் பெயர்ச்சொற்களும் ஏதாவது ஒரு வேற்றுமை உறவை ஏற்றுத்தான் வரும் என்பது கவனிக்கத்தக்கது. வேற்றுமை ஏற்காமல் ஒரு பெயர்ச்சொல் தொடரில் அமைந்தால் அத்தொடர் தவ</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வேற்றுமைப் பொருள்</Keyword>
+    <Explanation>ஒவ்வொரு வேற்றுமையும் பல்வேறு பொருள்களை உள்ளடக்கியிருக்கும். எனவே வேற்றுமைகளைப்பற்றிப் படிக்கும்போது, அவை வெளிப்படுத்தும் பொருள்களைத் தெரிந்துகொள்ளவேண்டும். 'சோழ அரசனால் தஞ்சைக் கோயில்க்கட்டப்பட்டது',</Explanation>
+    <Explanation1>'கற்கால் கோயில் கட்டப்பட்டது'. முதல் தொடரில் சோழ அரசன் கட்டும் செய்தலைச் செய்தவன் ('வினைமுதல்'). இரண்டாவது தொடரில் கற்கள் கோயில் கட்டப்படுவதற்குக் கருவியாகப் பயன்பட்டுள்ளன ('கருவி').</Explanation1>
+    <Noorpa />
+    <Chapter>வேற்றுமையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பிண்டப் பெயர்</Keyword>
+    <Explanation>தனித்தனியாக இருப்பவற்றைத் திரட்டி உருட்டி செய்யப்பட்ட பொருளைக் குறிக்கும் பெயர்ச்சொற்கள். எ.கா. 'குப்பை'</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தடுமாறு தொழிற்பெயர்</Keyword>
+    <Explanation>புலிகொல்யானை என்பதை இரண்டு வகைகளில் பொருள் கொள்ளலாம். ஒன்று, புலியைக் கொன்ற யானை'; இங்கு 'யானை' எழுவாய். 'புலி' செயப்படுபொருள். ஆனால் 'புலியால் கொல்லப்பட்ட யானை'  என்றும் விரிக்கலாம். அப்போது 'யானை' என்பது எழுவாய்.</Explanation>
+    <Explanation1>புலி' என்பது செயப்படுபொருள் ஆகும்.  இவ்வாறு ஒரு தொடரில் வேற்றுமை உருபு மறைந்து நிற்கும்போது, பொருள் தடுமாற்றம் ஏற்படும். இத்தகைய தொடர்களே தடுமாறு தொழிற்பெயர் என்று அழைக்கப்படுகிறது.</Explanation1>
+    <Noorpa>தடுமாறு தொழிற்பெயர்க்கு இரண்டும் மூன்றும், கடி நிலை இலவே பொருள்வயினான</Noorpa>
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கொடையெதிர் கிளவி</Keyword>
+    <Explanation>'முருகன் பூசை' என்பதை ' முருகனுக்கு அளிக்கப்படுகிற பூசை' என்று நான்காம் வேற்றுமைப் பொருளாகவும் கொள்ளலாம். 'முருகனது' 'முருகனுடைய பூசை' என்று  ஆறாம் வேற்றுமைப் பொருக்கவும் கொள்ளலாம்.  இத்தகைய தொடரே கொடையெதிர் கிளவி என்று அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செயப்படுபொருள்</Keyword>
+    <Explanation>ஒரு வினை அல்லது செயலுக்கு உட்படும் ஒரு பொருள். (எ.கா.) 'புலி யானையைக் கொன்றது' இங்கு 'யானை' செயப்படுபொருளாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சினையறி கிளவி</Keyword>
+    <Explanation>பலா இனிக்கும்' என்ற தொடரில் 'பலாவுக்குள் உள்ள 'சுளை' இனிக்கும் என்பதே பொருள். முதற்சொல்லாகிய 'பலா' அதனுடைய உறுப்புகளாகிய 'சுளைகளை' குறித்துநிற்கின்றன. இவ்வாறு உறுப்பை - சினையை-  முதலே வெளிப்படுத்துவது சினையறிகிவியாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முதலறி கிளவி</Keyword>
+    <Explanation>தலைக்கு  நூறு ரூபாய் ஊதியம்' என்ற தொடரில் 'தலை' என்பது ஒரு நபரைக் குறித்து நிற்கிறது. இவ்வாறு ஒன்றின் உறுப்பானது ( சினையானது) - தனது முதலைக் குறித்து நின்றால், அது முதலறி கிளவி எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பண்புகொள் பெயர்</Keyword>
+    <Explanation>ஒரு பொருளின் பண்பை அடிப்படையாகக்கொண்டு, அப்பொருளை அழைக்கப் பயன்படுத்தும் பெயர்ச்சொல். (எ.கா.) 'ஆரணி தரம் வாய்ந்தது ' என்று கூறும்போது, 'ஆரணி' என்பது ஆரணியில் நெய்த சேலையைக் குறித்து நிற்கிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வேற்றுமை மயங்கியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அளபெடைப் பெயர்</Keyword>
+    <Explanation>கோமாஅன்' ' பெருமாஅன்' என்று அமையும் பெயர்கள் அளபெடைப் பெயர்கள் ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>விளிமரபு</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சொல்</Keyword>
+    <Explanation>பொருளைக் குறிக்கப் பயன்படுத்தும் ஒன்று</Explanation>
+    <Explanation1 />
+    <Noorpa>எல்லாச் சொல்லும் பொருள் குறித்தனவே</Noorpa>
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சொல்லெனப்படுப</Keyword>
+    <Explanation>பெயர், வினை என்ற இரண்டோடு அவற்றைச் சார்ந்துவரும் இடை, உரி உட்பட நான்கு</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முறைப்பெயர்க் கிளவி</Keyword>
+    <Explanation>அப்பா, அம்மா, அண்ணன் போன்ற உறவுகளைக் குறித்து நிற்கும் பெயர்களே முறைப்பெயர்க் கிளவிகள் என அழைக்கப்படுகின்றன.</Explanation>
+    <Explanation1 />
+    <Noorpa>பெண்மை முறைப்பெயர் ஆண்மை முறைப்பெயர் என்று, ஆ இரண்டு என்ப முறைப்பெயர் நிலையே</Noorpa>
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தொழிற்பெயர்</Keyword>
+    <Explanation>வினையிலிருந்து பிறந்து, ஒரு தொழிலைக் குறிக்கும் பெயர்ச்சொல்லாக அமைவது தொழிற்பெயராகும். வேற்றுமை ஏற்பதால் இது தொழிற்பெயர் என அழைக்கப்படுகிறது. 'வருதல்', 'போதல்'</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அஃறிணை விரவுப் பெயர்</Keyword>
+    <Explanation>உயர்திணை, அஃறிணை ஆகிய இருதிணைகளிலும் வரும் விரவுப் பெயர்களில் , அஃறிணையாகக் கொள்ளப்படும் பெயர் அஃறிணை விரவுக்பெயர். 'சிதம்பரம் வந்துவிட்டது' என்பதில் 'சிதம்பரம்' என்பது அஃறிணை விரவுப்பெயர்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெயர்</Keyword>
+    <Explanation>உயர்திணை,அஃறிணை, விரவுத்திணை என்று பெயர் மூவகைப்படும். ; ஐம்பாலுக்கும் ஆண்பால் ஒருமை, பெண்பால் ஒருமை, பலர்பால், ஒன்றன்பால், பலவின்பால் என்ற ஐந்து பால்களுக்கும் உரியவை.;</Explanation>
+    <Explanation1>வேற்றுமை ஏற்கும்; காலம் காட்டாது. வினையாலணையும்பெயர் மட்டும் இதற்கு விதிவிலக்கு. அவை காலம் காட்டும்.</Explanation1>
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினை</Keyword>
+    <Explanation>வேற்றுமை ஏற்காமல், கால இடைநிலைகளை ஏற்றும் வரும் சொல்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வினையெனப்படுவது வேற்றுமை கொள்ளாது, நினையுங்காலை காலமொடு தோன்றும்</Noorpa>
+    <Chapter>வினையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இடைச்சொல்</Keyword>
+    <Explanation>பெயர்ச்சொல்லையோ  வினைச்சொல்லையோ சார்ந்து இயங்கும் சொல் இடைச்சொல்லாகும். சாரியை, காலம் காட்டும் விகுதிகள்,  வேற்றுமை விகுதிகள், அசை, இசை நிறைக்க வருவன,உவம உருபுகள் ஆகியவை இடைச்சொற்களாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இடையெனப்படுப பெயரொடும் வினையொடும் நடைபெற்றியலும்; தமக்கியல்பு இலவே</Noorpa>
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உரிச்சொல்</Keyword>
+    <Explanation>பெயருக்கும் வினைக்கும் அடைகளாக வரும். பெயர் , வினைபோன்று அடிச்சொற்களைப் பெற்றிருக்கும். பெயர், வினை ஆகியவற்றின் பன்மை எடுத்துக்காட்டி நிற்கும். பெயரையோ வினையையோ சார்ந்துதான் இது நிற்கும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>உரியியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஐம்பாற்கிளவி</Keyword>
+    <Explanation>உயர்திணை ஆண்பால் ஒருமை, உயர்திணை பெண்பால் ஒருமை, உயர்திணை பலர்பால், அஃறிணை ஒன்றன்பால், அஃறிணை பலவின்பால் என ஐந்து வகைப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உயர்திணைப் பெயர்</Keyword>
+    <Explanation>மக்களைச் சுட்டி நிற்கும் பெயர்ச்சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa>மக்கட் சுட்டே</Noorpa>
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பால் அறிவந்த உயர்திணைப்பெயர்</Keyword>
+    <Explanation>அவன்,இவன்,உவன்,அவள்,இவள்,உவள்,அவர்,இவர்,உவர்,யான்,யாம்,நாம் யாவன், யாவள்,யாவர் என்ற பதினைந்தும் பால் அறிவந்த உயர்திணைப் பெயர்களாகும்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெயர்நிலைக் கிளவி</Keyword>
+    <Explanation>பெயர்ச்சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நிலப்பெயர்</Keyword>
+    <Explanation>மதுரைக்காரன்' 'சேலத்துக்காரி' என்று நிலத்தை அடிப்படையாகக்கொண்டு , அதேவேளையில் ஆண்பால், பெண்பால் ஈறுகளைக் கொண்டு அமையும் பெயர்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குடிப்பெயர்</Keyword>
+    <Explanation>சேரன், சோழன்,பாண்டியன் என்ற குலத்தின் அடிப்படையிலான பெயர்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குழுப்பெயர்</Keyword>
+    <Explanation>மன்றத்துக்காரன்' 'சங்கத்துக்காரன்' என்று குழுக்களின் அடிப்படையில் அமையும் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினைப்பெயர்</Keyword>
+    <Explanation>'தச்சர்' 'கொல்லர்' என்று தொழிலை அடிப்படையாகக்கொண்டு அமையும் பெயர்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உடைப்பெயர்</Keyword>
+    <Explanation>'செல்வந்தர்' 'வேலன்' என்று குறிப்பிட்ட பொருள்களை உடையவர்களைக் குறிக்கும் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பண்புகொள் பெயர்</Keyword>
+    <Explanation>'செல்வந்தன்' 'குட்டைக்காரி' 'கருப்பன்' என்று பண்புகளை அடிப்படையாகக்கொண்டு அமையும் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முறைநிலைப்பெயர்</Keyword>
+    <Explanation>'தந்தையர்' 'தாயர்' என்று உறவுமுறை அடிப்படையில் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சினைநிலைப்பெயர்</Keyword>
+    <Explanation>'செவிடர்' 'குருடர்' என்று உறுப்புகளின் அடிப்படையில் அமையும் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>திணைநிலைப்பெயர்</Keyword>
+    <Explanation>ஆயர்' 'வேட்டுவர்' என்று திணை அடிப்படையில் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆடியல்பெயர்</Keyword>
+    <Explanation>விளையாட்டுகளின்போது, குழுக்களாகப் பிரிந்துநின்று 'வெள்ளையினர்' 'சிவப்பினர்' என்று அமையும் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எண்ணியல்பெயர்</Keyword>
+    <Explanation>'ஆயிரவர்' ' பதின்மர்' என எண்ணிக்கை அடிப்படையில் அமையும் பெயர்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பால் அறிவந்த அஃறிணைப்பெயர்</Keyword>
+    <Explanation>'அஃறிணையில் ஒன்றன்பால், பலவின்பால் ஆகியவற்றை வெளிப்படுத்தி நிற்கும் அது, இது, உது, அஃது, இஃது, உஃது, அவை,இவை, உவை,அவ்,இவ்,உவ், யாது,யா, யாவை என்ற பதினைந்தும் பால் அறிவந்த அஃறிணைப் பெயர்களாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எண்ணுக்குறிப்பெயர்</Keyword>
+    <Explanation>இத்தனை எனச் சொல்லும் எண்ணிக்கைப் பெயர்கள் ('நூறு தந்தான்' ' பத்து மைல் நடக்கவேண்டும்')</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பால்திரி கிளவி</Keyword>
+    <Explanation>'பெண்மகன்' போன்ற சொற்கள் வினையில் பெண்பால் விகுதி கொண்டு முடியும். இது பால்திரி கிளவி என்று அழைக்கப்படுகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>பெயரியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>காலம்</Keyword>
+    <Explanation>வினைச்சொற்களில் தோன்றும் 'இறப்பின் அல்லது இறந்தகாலம், நிகழ்வின் அல்லது நிகழுங்காலம், ,எதிர்வின் அல்லது வாராக் காலம்'  என்ற முக்காலங்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முற்றியல் மொழி</Keyword>
+    <Explanation>திணை எண் பால் விகுதிகளோடு காலத்தை வெளிப்படையாகக் காட்டிநிற்கும் வினைச்சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>வினையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினையெஞ்சு கிளவி</Keyword>
+    <Explanation>செய்து செய்யூ செய்பு செய்தென, செய்யியர் செய்யிய செயின் செய செயற்கு என்ற  ஒன்பதும் வினையெஞ்சுகிளவி</Explanation>
+    <Explanation1 />
+    <Noorpa>செய்து செய்யூ செய்பு செய்தென, செய்யியர் செய்யிய செயின் செய செயற்கு என , அவ் வகை ஒன்பதும் வினையெஞ்சுகிளவி</Noorpa>
+    <Chapter>வினையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வியங்கோட்கிளவி</Keyword>
+    <Explanation>முன்னிலை தன்மை ஆ ஈர் இடத்தொடு, மன்னாது ஆகும் வியங்கோட் கிளவி</Explanation>
+    <Explanation1 />
+    <Noorpa>முன்னிலை தன்மை ஆ ஈர் இடத்தொடு, மன்னாது ஆகும் வியங்கோட் கிளவி</Noorpa>
+    <Chapter>வினையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெயரெஞ்சு கிளவி</Keyword>
+    <Explanation>பெயரெஞ்சுகிளவி பெயரைக்கொண்டு முடியும்</Explanation>
+    <Explanation1 />
+    <Noorpa>பெயரெஞ்சுகிளவி பெயரொடு முடிமே</Noorpa>
+    <Chapter>வினையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மயங்குமொழிக்கிளவி</Keyword>
+    <Explanation>இறந்தகாலம், எதிர்காலம் இரண்டிலும் மயக்கமுறத் தோன்றும் மயங்குமொழிக் கிளவி</Explanation>
+    <Explanation1 />
+    <Noorpa>இறப்பே எதிர்வே ஆயிரு காலமும் , சிறப்பத் தோன்றும் மயங்குமொழிக் கிளவி</Noorpa>
+    <Chapter>வினையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இடைச்சொல்</Keyword>
+    <Explanation>தான் தனித்து இயங்காமல், பெயர், வினை ஆகிய இரண்டையும் சார்ந்து இயங்கும் சொற்கள்</Explanation>
+    <Explanation1 />
+    <Noorpa>இடை எனப்படுப பெயரொடும் வினையொடும், நடைபெற்று இயலும் தமக்கு இயல்பு இலவே</Noorpa>
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அசைநிலைக்கிளவி</Keyword>
+    <Explanation>தமக்கென்று பொருள் இல்லாமல், அசைநிலையாக வரும் சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இசைநிறைக்கிளவி</Keyword>
+    <Explanation>செய்யுளில் இசைநிறைக்க வரும் சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உம்மைச் சொல்</Keyword>
+    <Explanation>எட்டுப் பொருள்களில் வரும் 'உம்' என்ற சொல்</Explanation>
+    <Explanation1 />
+    <Noorpa>எச்சம் சிறப்பே ஐயம் எதிர்மறை , முற்றே எண்ணே தெரிநிலை ஆக்கம் என்று , அப் பால் எட்டே உம்மைச் சொல்லே</Noorpa>
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எச்ச உம்மை</Keyword>
+    <Explanation>'கண்ணனும் வந்தான், முருகனும் வந்தான் என்பதில் 'உம்' என்பது எச்ச உம்மை.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எதிர்மறை உம்மை</Keyword>
+    <Explanation>'முருகன் வருவதும் உண்டு, வராமலிருப்பதும் உண்டு' என்பதில்  'உம்' என்பது எதிர்மறை உம்மை.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எச்சக் கிளவி</Keyword>
+    <Explanation>பத்தும் கொடாதே ' என்று தொடரில் ' சிலவற்றைக் கொடுக்கலாம்' என்ற எச்சப்பொருள்  முற்றும்மையில்  எஞ்சி நிற்கிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa>முற்றிய உம்மைத் தொகைச்சொல் மருங்கின் , எச்சக் கிளவி உரித்தும் ஆகும்</Noorpa>
+    <Chapter>இடையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செய்யுள் ஈட்டச்சொல்</Keyword>
+    <Explanation>செய்யுள் இலக்கியத்தைப் படைப்பதற்கு உதவும் நான்கு வகைச் சொற்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இயற்சொல் திரிசொல் திசைச்சொல் வடசொல் என்று , அனைத்தே செய்யுள் ஈட்டச் சொல்லே</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இயற்சொல்</Keyword>
+    <Explanation>செந்தமிழ் வழங்கும் நிலப்பகுதியில் பேசப்படும் வழக்கில் இடம்பெற்று, தனது பொருள் வழுவாமல் உணர்த்தும் சொல்.</Explanation>
+    <Explanation1 />
+    <Noorpa>செந்தமிழ் நிலத்து வழக்கொடு சிவணித் தம்பொருள் வழாமை இசைக்கும் சொல்லே</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>திரிசொற்கிளவி</Keyword>
+    <Explanation>ஒரு பொருள் தரும் பல சொற்கள், பல பொருள்கள் தரும் ஒரு சொல் ஆகியவை திரிசொல் எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒருபொருள் குறித்த வேறு சொல்லாகியும், வேறுபொருள் குறித்த ஒரு சொல்லாகியும் இருபாற்று என்ப திரிசொற்கிளவி</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>திசைச்சொற்கிளவி</Keyword>
+    <Explanation>பன்னிரண்டு வகைப்பட்ட தமிழ்நாடு நிலப்பிரிவுகளில் வழங்கும் வட்டார வழக்குகள்</Explanation>
+    <Explanation1 />
+    <Noorpa>செந்தமிழ் சேர்ந்த பன்னிரு நிலத்தும் தம் குறிப்பினவே திசைச்சொற் கிளவி</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வடசொல்</Keyword>
+    <Explanation>வடசொற்கள் வடமொழிக்கே உரிய எழுத்துகளை விட்டுவிட்டு, தமிழ் எழுத்துகளுடன் கூடிய சொற்களாகத் தமிழில் வழங்குவது வடசொல்லாகும்</Explanation>
+    <Explanation1 />
+    <Noorpa>வடசொற்கிளவி வடவெழுத்து ஒரீஇ. எழுத்தொடு புணர்ந்த சொல்லாகும்மே</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நிரனிறை</Keyword>
+    <Explanation>பொருள் கொள்ளும்போது, நின்ற சொற்களையும் அவை அவாவி நிற்கும் சொற்களையும் நிரல்நிறுத்து அமைப்பது நிரல் நிறையாகும். 'அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை, பண்பும் பயனும் அது'</Explanation>
+    <Explanation1>என்ற குறளுக்கு இல்வாழ்க்கையின் பண்பு அன்பென்றும் , இல்வாழ்க்கையின் பயன் அறனென்றும் அப்பொருள் கோள் நிரல் நிறையாதல்</Explanation1>
+    <Noorpa>நிரல்நிறைதானே , வினையினும் பெயரினும் நினையத் தோன்றி, சொல் வேறு நிலைஇ பொருள் வேறு நிலையல்</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சுண்ணம்</Keyword>
+    <Explanation>நால்வகைப் பொருள்கோள்களுள் ஒன்று. இரண்டடிக்குள் சிதறிக் கிடக்கும் சொற்களைப் பொருத்தம் நோக்கி இயைத்துப் பொருள் கொள்வது சுண்ணம் ஆகும்</Explanation>
+    <Explanation1 />
+    <Noorpa>சுண்ணம்தானே , பட்டாங்கு அமைந்த ஈர் அடி எண் சீர் , ஒட்டு வழி அறிந்து துணித்தனர் இயற்றல்</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அடிமறி</Keyword>
+    <Explanation>ஆசிரியப்பாவின் அடிகளை மறித்து மாற்றினாலும் பொருட்குறையோ யாப்புக்குறையோ ஏற்படாத ஒரு வகைப் பா</Explanation>
+    <Explanation1 />
+    <Noorpa>அடிமறிச் செய்தி அடி நிலை திரிந்து , சீர் நிலை திரியாது தடுமாறும்மே</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மொழிமாற்று</Keyword>
+    <Explanation>செய்யுளில் சொற்களை மாற்றிப் பொருள் செய்ய வேண்டிய நிலையில் சொற்கள் புணர்க்கப்பட்டிருந்தால், அது மொழிமாற்றுப் பொருள்கோள் எனப்படும்</Explanation>
+    <Explanation1 />
+    <Noorpa>மொழிமாற்று இயற்கை, சொல் நிலை மாற்றி பொருள் எதிர் இயைய, முன்னும் பின்னும் கொள்வழிக் கொளாஅல்</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தொகைமொழி</Keyword>
+    <Explanation>பெயரும் பெயரும் வேற்றுமை முதலாகிய பொருள்களில் தொகுக்கப்பட்டு நிற்பது தொகைமொழி என வழங்கப்படும். வேற்றுமைத்தொகை, உவமத்தொகை, வினையின்தொகை, பண்பின்தொகை, உம்மைத்தொகை, அன்மொழித்தொகை என்று ஆறு வகைப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வேற்றுமைத்தொகையே உவமத்தொகையே, வினையின்தொகையே பண்பின்தொகையே, உம்மைத்தொகையே அன்மொழித்தொகை என்று, அவ் ஆறு என்ப தொகைமொழி நிலையே</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வேற்றுமைத் தொகை</Keyword>
+    <Explanation>இரண்டு பெயர்ச் சொற்களுக்குள் வேற்றுமை விகுதிகள் மறைந்துநின்று, வேற்றுமைப் பொருளைள்ளை வெளிப்படுத்தும் தொகை வேற்றுமைத் தொகையாகும். 'பந்து அடித்தான்' இது 'பந்தை அடித்தான்' என்ற இரண்டாம் வேற்றுமைப் பொருளில் வருகிறது.</Explanation>
+    <Explanation1 />
+    <Noorpa>வேற்றுமைத்தொகையே வேற்றுமை இயல</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உவமத் தொகை</Keyword>
+    <Explanation>முத்துப் பல் ' என்பது 'முத்துபோன்ற பல்' என்ற பொருளைத் தருகிறது. இங்கு 'போன்ற' என்ற உவம உருபு மறைந்து நிற்கிறது. இதுவே உவமத் தொகையாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>உவமத்தொகையே உவம இயல</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வினையின் தொகை</Keyword>
+    <Explanation>சில வினையடிகள் காலம் காட்டாமல்,பெயர்களுடன் இணைந்து தொகையாக நின்று பொருள் தரும். 'குடிதண்ணீர்' , 'எழுகதிர்'</Explanation>
+    <Explanation1 />
+    <Noorpa>வினையின்தொகுதி காலத்து இயலும்</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பண்பின் தொகை</Keyword>
+    <Explanation>ஒரு பெயர்ச்சொல்லோடு, அதனுடைய வண்ணம், வடிவம்,அளவு, சுவை போன்ற பல பண்புகளை வெளிப்படுத்தும் பெயர்ச்சொற்கள் இணைந்து ஒரு தொகையாக அமைவதுப் பண்புத் தொகையாகும். 'வெள்ளைக் குதிரை' 'செஞ்சட்டை'</Explanation>
+    <Explanation1 />
+    <Noorpa>வண்ணத்தின் வடிவின் அளவின் சுவையின் என்று, அன்ன பிறவும் அதன் குணம் நுதலி, இன்னது இது என வரூஉம் இயற்கை, என்ன கிளவியும் பண்பின்தொகையே</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உம்மைத் தொகை</Keyword>
+    <Explanation>உம்' என்ற கிளிவி மறைந்து நிற்கத் தொகுக்கப்பட்ட பெயர்த்தொகை உம்மைத் தொகைக்கும். 'இராப்பகல்' 'ஆடுமாடு'</Explanation>
+    <Explanation1 />
+    <Noorpa>இரு பெயர் பல பெயர் அளவின் பெயரே, எண்ணியற்பெயரே நிறைப்பெயர்க் கிளவி, எண்ணின் பெயரோடு அவ் அறு கிளவியும், கண்ணிய நிலைத்தே உம்மைத்தொகையே</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அன்மொழித் தொகை</Keyword>
+    <Explanation>அல்லாத மொழி தொக்கு நிற்பது அன்மொழித்தொகை …. அல்லாத மொழியை உடைய ஒரு தொகை அன்மொழித்தொகை என்பது மிகவும் பொருந்தும் . 'தேமொழி வந்தாள்' இங்கு 'தேமொழி ' தேன்போன்ற மொழியை உடைய பெண் என விரியும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>பண்பு தொக வரூஉம் கிளவியானும், உம்மை தொக்க பெயர்வயினானும்,வேற்றுமை தொக்க பெயர்வயினானும், ஈற்று நின்று இயலும் அன்மொழித்தொகையே</Noorpa>
+    <Chapter>எச்சவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அகவலோசை</Keyword>
+    <Explanation>ஆசிரியம் அகவலோசையுடையது.</Explanation>
+    <Explanation1 />
+    <Noorpa>அகவலென்பது ஆசிரியம்மே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அங்கதச் செய்யுள்</Keyword>
+    <Explanation>வசையொடும் நசையொடும் புணர்ந்தன்று ஆயின், அங்கதச் செய்யுள் என்மனார் புலவர்</Explanation>
+    <Explanation1 />
+    <Noorpa>வசையொடும் நசையொடும் புணர்ந்தன்று ஆயின், அங்கதச் செய்யுள் என்மனார் புலவர்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அங்கதம்</Keyword>
+    <Explanation>எள்ளல் குறிப்புடையது. நகையாடலுடன் கூடியது. இது செம்பொருள், சுரந்தது என இருவகைப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அங்கதம்தானே அரில் தபத் தெரியின், செம்பொருள் கரந்தது என இரு வகைத்தே</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அடி</Keyword>
+    <Explanation>நாற்சீர் கொண்டது அடி.</Explanation>
+    <Explanation1 />
+    <Noorpa>நாற்சீர் கொண்டது அடி எனப்படுமே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அராகம்</Keyword>
+    <Explanation>குற்றெழுத்துகளை மிகுதியாகவுடையது. (எ.கா.) கம,பட,தரு என்பதுபோல குறிலிணைகள் நெருங்கி வருவது. அடிபடு, சடுகுடு,நடுநிலை என்பதுபோல வரும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அவையடக்கியல் வாழ்த்து</Keyword>
+    <Explanation>தாம் இயற்றிய நூலைச் சான்றோர் அவையில் அரங்கேற்றும்போது, அரங்கேற்றுபவர் அவையை மதித்துக் கூறும் பணிவமைந்த சொல் அவை அடக்கியல் ஆகும். பொருந்தாதன இருப்பினும் பொருந்தியதாக ஏற்றுக்கொண்டு அரங்கேற்றத்திற்கு உதவவேண்டும் என்பது அது.</Explanation>
+    <Explanation1 />
+    <Noorpa>அவையடக் கியலே அரில்தபத் தெரியின், வல்லா கூறினும் வகுத்தனர் கொண்மின் என்று , எல்லா மாந்தர்க்கும் வழிமொழிந் தன்றே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அளபெடைத்தொடை</Keyword>
+    <Explanation>அடிதோறும் அளபெடை அமையும்வகையில் தொடுக்கப்பட்டால் அது அளபெடைத் தொடை எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அளபெழின் அவையே அளபெடைத் தொடையே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>அளவடி</Keyword>
+    <Explanation>நாற்சீரடி அளவடியில் 10,11,12,13,14 எழுத்துகளைக்கொண்டு அமைவது நேரடி எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>பத்தெழுத்தென்ப நேரடிக் களவே ஒத்து நாலெழுத்து ஒற்றலங்கடையே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆசிரியத் தளை</Keyword>
+    <Explanation>இயற்சீர்கள் ஒன்றுடன் ஒன்று சேர்ந்து நேருக்கு நேரும் நிரைக்கு நிரையும் என ஒத்துவருமானால், அவை முறையே நேரொன்றாசிரியத்தளை, நிரையொன்றாசிரியத்தளை என ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>சீர் இயை மருங்கின் ஓரசை ஒப்பின் ஆசிரியத் தளை என்று அறியல் வேண்டும்.</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆற்றுப்படை</Keyword>
+    <Explanation>கூத்தரும் பாணரும் பொருநரும் விறலியும் வழியிடையே ஒருவர்க்கொருவர் எதிராகச் சந்தித்து, பரிசில் பெற்றுச் செல்வச்சிறப்புடன் வருபவன் தனக்கு எதிரே வறியராய் வருபவர்க்கு, இவ்வழியாகச் சென்று இத்தகைய தலைவனைக் கண்டு ,</Explanation>
+    <Explanation1>எம்மைப்போல நீங்களும் பரிசில் பெற்றுப் பயனடைவீர்களாக என வழிகாட்டுவது ஆற்றுப்படை</Explanation1>
+    <Noorpa>கூத்தரும் பாணரும் பொருநரும் விறலியும் ஆற்றிடைக் காட்சி உறழத் தோன்றிப் பெற்ற பெருவளம் பெறாஅர்க்கு அறிவுறீஇச் சென்று பயன்எதிரச் சொன்ன பக்கம்</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இறைச்சிப் பொருள்</Keyword>
+    <Explanation>இறைச்சியாவது உயிரின் அகத்தே தங்கியுள்ள உணர்வுப் பொருளாம். உரிப்பொருள். அது சொல்லப்படும் கருப் பொருளில் அமையாமல் அதற்கும் புறம்பாக அமைவது. அது குறிப்பால் கூறப்படுவதாம்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இறைச்சி தானே உரிப்புறத் ததுவே</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இயலசை</Keyword>
+    <Explanation>நேர், நிரை இரண்டும் இயலசை.</Explanation>
+    <Explanation1 />
+    <Noorpa>இயலசை முதலிரண்டு..</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இயற்சீர்</Keyword>
+    <Explanation>இயலசை எனப்பட்ட நேரும் நிரையும் தம்முள் ஒத்தும் மாறியும் வரும் மயக்கம் இயற்சீர் எனப்படும். (எ.கா.) நேர்நேர், நிரைநிரை, நேர்நிரை, நிரைநேர் . நேர்புநிரைபு, நிரைபுநேர்பு. நேரசை முன்னே வந்தாலும் அது இயற்சீரே ஆகும். (எ.கா. நேர்புநேர், நிரைபுநேர்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இயலசை மயக்கம் இயற்சீர்...நேர் அவண் நிற்பின் இயற்சீர்ப் பால</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இயைபுப்தொடை</Keyword>
+    <Explanation>அடியின் இறுதிச்சொல், சீர், எழுத்து ஒன்றி வந்தால் அது இயைபுத்தொடை எனப்படும். (எ.கா.) இனிமைத் தமிழ்மொழி எமது - அது எமக்கு இன்பம் தரும்படி வாய்த்த நல் அமுது.</Explanation>
+    <Explanation1 />
+    <Noorpa>இறுவாய் ஒப்பின் அஃது இயைபு என மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>இளையோர்</Keyword>
+    <Explanation>இளவயதுடைய பணியாளர், ஏவலர். தலைவன் சொல் கேட்டுப் பணி செய்பவர் இளையர்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இளையோர்க்குரிய கிளவி</Noorpa>
+    <Chapter>கற்பியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உரி</Keyword>
+    <Explanation>புணர்தல் பிரிதல் இருத்தல் இரங்கல் ஊடல் இவற்றின் நிமித்தம் என்று இவை தேருங்காலைத் திணைக்குரிப் பொருளே</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஆசிரிய உரிச்சீர்</Keyword>
+    <Explanation>ஏனைய உரியசை எனப்பட்ட நேர்பும் நிரைபும் தம்முள் ஒத்தும் மாறியும் வரும் மயக்கம்  ஆசிரிய உரிச்சீர் எனப்படும்.. (எ.கா.) நேர்புநேர்பு, நிரைபு நிரைபு,நேர்புநிரைபு, நிரைபுநேர்பு.  முன்னால் 'நிரை' வந்தாலும் அவை ஆசிரிய உரிச்சீராகும். (எ.கா.) நேர்பு நிரை, நிரைபு நி</Explanation>
+    <Explanation1 />
+    <Noorpa>ஏனை உரியசை மயக்கம் ஆசிரிய உரிச்சீர்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வெண்பா உரிச்சீர்</Keyword>
+    <Explanation>இயற்சீர்கள் நான்கின் இறுதியில் நேர் வந்தால், அவை வெண்பா உரிச்சீர் ஆகும். (எ.கா.) நேர்நேர்+நேர் - தேமாங்காய்; நேர்நிரை+நேர் - கூவிளங்காய் ' நிரைநேர்+நேர்-புளிமாங்காய்; நிரைநிரை+நேர் - கருவிளங்காய்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இயற்சீர் இறுதிமுன் நேர் அவண் நிற்பின் உரிச்சீர் வெண்பா ஆகும் என்ப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உரியசை</Keyword>
+    <Explanation>நேர்பு, நிரைபு இரண்டும் உரியசை.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஏனைய உரியசை</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உரை</Keyword>
+    <Explanation>பாட்டினிடையே வைக்கப்படும் உரைக்குறிப்புகள், பாக்கள் அல்லாது தோன்றும் சொல்வகை, ஒரு பொருள் கருதாது குறிப்பிட்ட பயன் எதுவும் கருதாமல், பொழுது போக்கிற்காகக் கூறப்படும் கட்டுக்கதைகள்,</Explanation>
+    <Explanation1>ஒரு நீதியை அல்லது வாழ்வியல் நெறியைப் போதிக்கும் நகைச்சுவை பொருந்திய மொழி என்ற நான்கும் உரை எனப்படும்.</Explanation1>
+    <Noorpa>பாட்டிடை வைத்த குறிப்பினானும், பாவின்று எழுந்த கிளவியானும் , பொருள் மரபு இல்லாப் பொய்ம்மொழியானும் பொருளொடு புணர்ந்த நகைமொழியானும் உரைவகை நடையே நான்கு என மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உழிஞை</Keyword>
+    <Explanation>உழிஞை என்பது மருதத்திணையின் புறமாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>உழிஞை தானே மருதத்துப் புறனே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உள்ளுறை உவமம்</Keyword>
+    <Explanation>வெளிப்படையாகப் புலப்படும் பொருளோடு உட்பொருள் ஒன்றும் அமையுமாறு கூறும் கருப்பொருள் உள்ளுரையாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>உள்ளுறுத்து இதனோடு ஒத்துப்பொருள் முடிக என உள்ளுறுத்து இறுவதை உள்ளுறை உவமம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>உறழ்</Keyword>
+    <Explanation>கூற்றும் மாற்றமும் இடை இடை மிடைந்தும் , போக்கின் றாகல் உறழ்கலிக்கு இயல்பே</Explanation>
+    <Explanation1 />
+    <Noorpa>கூற்றும் மாற்றமும் இடை இடை மிடைந்தும் , போக்கின் றாகல் உறழ்கலிக்கு இயல்பே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எச்சம்</Keyword>
+    <Explanation>சொல்லோ , குறிப்போ வந்து முடியும்படியான இயல்பைப் பொருந்திய கிளவி அல்லது கூற்று 'எச்சம்' எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>சொல்லொடும் குறிப்பொடும் முடிவு கொள் இயற்கை, புல்லிய கிளவி எச்சம் ஆகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எதுகை</Keyword>
+    <Explanation>முதலெழுத்து நீங்கலாக இரண்டாம் எழுத்தும் சிலபோது மேலும் வருவனவும் ஒத்து வருவன எதுகை ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அஃதொழிந்து ஒன்றின் எதுகை ஆகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எருத்தடி</Keyword>
+    <Explanation>கடைசியடிக்கு முதலடி - ஈற்றயலடி.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>எழுதிணை</Keyword>
+    <Explanation>முல்லை, குறிஞ்சி,மருதம், நெய்தல், பாலை, கைக்கிளை, பெருந்திணை என்ற ஏழும் திணைகளாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>கைக்கிளை முதலாப் பெருந்திணை இறுவாய் முற்படக் கிளந்த எழுதிணை என்ப</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஏனை உவமை</Keyword>
+    <Explanation>தான் உணர் வகைத்தே</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஐந்திணை</Keyword>
+    <Explanation>முல்லை, குறிஞ்சி, மருதம், நெய்தல், பாலை என்னும் ஐந்திணைகள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஒத்தாழிசைக் கலி</Keyword>
+    <Explanation>நான்கு சீர்களை உடையன.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஒரூஉத்தொடை</Keyword>
+    <Explanation>ஓரடிக்குள் இரண்டு சீர்கள் இடையிட்டு வருவது ஒரூஉத் தொடை எறப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>இருசீர் இடை இடின் ஒரூஉ என மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஓத்து</Keyword>
+    <Explanation>ஒத்த இனத்தவாகிய மணிகளை வரிசைப்படுத்தி வைத்தாற்போல, ஒன்றுபட்ட கருத்துள்ளவற்றை ஒருசேர ஓரிடத்தே வைப்பது இயல் என்பதாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>நேரின மணியை நிரல்பட வைத்தாங்கு, ஓரினப் பொருளை ஒருவழி வைப்பது ஓத்து</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>ஓம்படை நிலை</Keyword>
+    <Explanation>நட்சத்திரம், சகுனம் , பிற நிமித்தங்கள் இவற்றால் ஏற்படக்கூடிய அச்சம் நீக்கியும் உவகையை ஆக்கியும் இவற்றால் குறைவுபடாமல், முக்காலமும் கருதிப் பாதுகாப்பாக வாழ்க என வாழ்த்துகின்ற நிலை ஓம்படைநிலையாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அச்சமும் உவகை எச்சமின்றி, நாளும் புள்ளும் பிறவற்றின் நிமித்தமும் , காலங்கண்ணிய ஓம்படை</Noorpa>
+    <Chapter>புறத்திணையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கடைக்கூட்டுநிலை</Keyword>
+    <Explanation>இரந்து பொருள் பெற வருவார்க்கு இவ்விடம் செல்க என, இரந்து பெற்றான் ஒருவன் வழிகாட்டிப் போகவிடுதல்  கடைக்கூட்டுநிலையாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>பரிசில் கடைஇய கடைக்கூட்டு நிலையும்</Noorpa>
+    <Chapter>புறத்திணையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கற்பு</Keyword>
+    <Explanation>கற்பு என்று திருமணம் குறிக்கப்படுகிறது. அது கரணமொடு சடங்குகளுடன் தலைவியைக் கொள்ளுதற்குரிய தலைவன், கொடுத்தற்குரிமையுடைய தன்மையினர் கொடுப்ப, மணம் செய்துகொள்வதாகும்.</Explanation>
+    <Explanation1>தலைவியை மணம் செய்து கொடுத்தற்குரியவர்கள் இல்லாமலும், காதலர் உடன்போகிய காலத்தில், மணச்சடங்குகள் உண்டு.</Explanation1>
+    <Noorpa>கற்பு எனப்படுவது கரணமொடு புணரக் கொளற்குரி மரபின் கிழவன் கிழத்தியைக் கொடைக்குரி மரபினோர் கொடுப்பக் கொள்வதுவே... கொடுப்போர் இன்றியும் கரணம் உண்டே புணர்ந்துடன் போகிய காலையான</Noorpa>
+    <Chapter>கற்பியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கந்தழி</Keyword>
+    <Explanation>பாடாண் திணையின் துறைகளுள் ஒன்று.</Explanation>
+    <Explanation1 />
+    <Noorpa>கொடிநிலை கந்தழி வள்ளி என்ற, வடுநீங்கு சிறப்பின் முதலன மூன்றும், கடவுள் வாழ்த்தொடு கண்ணிய வருமே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கரு</Keyword>
+    <Explanation>தெய்வம் உணாவே மா மரம் புள்பறை, செய்தி யாழின் பகுதியொடு தொகைஇ, அவ்வகை பிறவும் கருஎன மொழிப</Explanation>
+    <Explanation1 />
+    <Noorpa>தெய்வம் உணாவே மா மரம் புள்பறை, செய்தி யாழின் பகுதியொடு தொகைஇ, அவ்வகை பிறவும் கருஎன மொழிப</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கலித்தளை</Keyword>
+    <Explanation>10,11,12,13,14 எழுத்துக்கள் உடைய அளவடியில் 'மிக்க அடிகள்' என்பன 13,14 எழுத்துடையன. இரு நெடிலடி - நெடிலடியும் கழிநெடிலடியும் . இவை கலிப்பாவிற்கு உரியன. இவை கலித்தளை பெற்று வரவேண்டும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அளவடி மிகுதி உளப்படத் தோன்றி இருநெடில் அடியும் கலியிற்கு உரிய</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கலிப்பா</Keyword>
+    <Explanation>கலிப்பா வெண்பா நடையை உடையது.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஏனை வெண்பா நடைத்தே கலி என மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கலிவெண்பாட்டு</Keyword>
+    <Explanation>தொடக்கத்திலிருந்து முடிவுவரை ஒரே பொருளை நுதலுதல் கலிவெண்பாட்டாகும். வெண்டளைம்பெற்ற வெள்ளடியால் பாடப்படவேண்டும்..இவற்றில் திரிபு சிறிதுமின்ற அமைவது கலிவெண்பாட்டாகும். கைக்கிளைப் பொருளில் பாடப் பெறும் மருட்பா.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒருபொருள் நுதலிய வெள்ளடி இயலால் திரிபின்றி வருவது கலிவெண்பாட்டே'…'கலிவெண்பாட்டே கைக்கிள+C40ைச் செய்யுள்'</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கழிநெடிலடி</Keyword>
+    <Explanation>18,19,20 எழுத்துகளைக் கொண்டு அமைவது கழிநெடிலடி எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>மூவாறு எழுத்தே கழிநெடிற்கு அளவே ஈரெழுத்து மிகுதலும் இயல்பென மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>காஞ்சி</Keyword>
+    <Explanation>காஞ்சித்திணை என்பது பெருந்திணையின் புறமாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>காஞ்சி தானே பெருந்திணைப் புறனே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>காமக்கிழத்தி</Keyword>
+    <Explanation>மணம் செய்துகொள்ளாமல் பாலுணர்வால் கொண்ட தலைவி.</Explanation>
+    <Explanation1 />
+    <Noorpa>காமக் கிழத்தியர் நலம் பாராட்டிய</Noorpa>
+    <Chapter>கற்பியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>காண்டிகையுரை</Keyword>
+    <Explanation>குற்றமற்ற சூத்திரத்துடன் பொருந்திய பண்பினையுடையதாய், பொருளைச் சிறிதும் மறைவின்றி விளக்குவது காண்டிகையுரையாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>பழிப்பில் சூத்திரம் பட்ட பண்பின் கரப்பின்றி முடிவது காண்டிகை ஆகும்</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கிழத்தி</Keyword>
+    <Explanation>மண உரிமைத் தகவு அமைந்த பெண், கிழத்தி எனப்படுவாள். தலைவி எனப்படுவாளும் அவள்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>களவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கிழவன்</Keyword>
+    <Explanation>மண உரிமை கொள்ளத்தக்க தகுதி அமைந்தவன்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>களவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குட்டம்</Keyword>
+    <Explanation>குறைந்து வரும் அடி</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குறளடி</Keyword>
+    <Explanation>நாற்சீரடி 4,5,6 எழுத்துகளைக் கொண்டு வரும்போது குறளடி எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>நால் எழுத்து ஆதியாக ஆறு எழுத்து ஏறிய நிலத்தே குறளடி என்ப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குறிஞ்சி</Keyword>
+    <Explanation>மலை சூழ்ந்த நிலம்</Explanation>
+    <Explanation1 />
+    <Noorpa>சேயோன் மேய மைவரை உலகம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குறிப்புமொழி</Keyword>
+    <Explanation>ஒன்றைக் கூறுங்கால், அதில் வரும் எழுத்தும் சொல்லும் ஒரு பொருளை உணர்த்த அதனொடு பொருந்தாது, அப்பொருளின் புறத்ததாய் வேறொரு பொருளை உணர்த்துவது குறிப்புமொழியாகும்,.</Explanation>
+    <Explanation1 />
+    <Noorpa>எழுத்தொடும் சொல்லொடும் புணராதாகிப் பொருள் புறத்ததுவே குறிப்பு மொழி என்ப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>குறுவெண் பாட்டு</Keyword>
+    <Explanation>நான்கு அடிகளிலிருந்து குறைந்து இரண்டு அடிகளாலும் மூன்று அடிகளாலும் முடிவன குறுவெண் பாட்டு எனப்படும்.இதைக் குறள் வெண்பா, சிந்தடி வெண்பா என்பர்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கூத்தர்</Keyword>
+    <Explanation>இசைக்கும் தாளத்திற்கும் தக ஆடுபவர் கூத்தர்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அணி நிலை உரைத்தலும் கூத்தர் மேன</Noorpa>
+    <Chapter>கற்பியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கைக்கிளை</Keyword>
+    <Explanation>இது புறத்திணை சார்ந்தது. முத்தொள்ளாயிரம் போன்றது. இது வெண்பாவில் தொடங்கி ஆசிரியத்தால் முடியவும்  பெறும். இது மருட்பா எனப்படும். வெண்பாவால் மட்டுமின்றி மருட்பாவாலும் கைக்கிளை பாடப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>கைக்கிளை தானே வெண்பாவாகி ஆசிரிய இயலான் முடியவும் பெறுமே</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கொச்சகக் கலி</Keyword>
+    <Explanation>தரவும் போக்கும் பாட்டிடை மிடைந்தும், ஐஞ்சீர் அடுக்கியும் ஆறுமெய் பெற்றும், வெண்பா இயலான் வெளிப்படத் தோன்றும், பாநிலை வகையே கொச்சகக் கலி</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கொச்சகம்</Keyword>
+    <Explanation>நான்கு வகைப் பாக்களின் அடியும் விரவி, வெண்பாப் போல முடிவது கொச்சகம் ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கொடிநிலை</Keyword>
+    <Explanation>பாடாண்திணைத் துறைகளுள் ஒன்று.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>கொற்றவள்ளை</Keyword>
+    <Explanation>பகை வென்ற வெற்றியை வள்ளை எனப்படும் உலக்கைக் குத்தும் பாட்டாகப் பாடுதல்.</Explanation>
+    <Explanation1 />
+    <Noorpa>கொற்ற வள்ளை ஓரிடத்தான</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சிந்தடி</Keyword>
+    <Explanation>நாற்சீர் அளவடியில் 7,8,9 எழுத்துக்களைக்கொண்டு வருவன சிந்தடியாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஏழ் எழுத்து என்ப சிந்தடிக்கு அளவே ஈர் எழுத்து ஏற்றம் அல்வழியான</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சீர்</Keyword>
+    <Explanation>இரண்டு அசைகளைக் கொண்டும் அவற்றின்மேல் மூன்றாவது ஓரசை சேர்த்தும் , சீர்பெறத் தம்முள் இசைந்து ஒன்றுபட்டு நிற்பது சீர் எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஈரசை கொண்டும் மூவசை புணர்ந்தும் சீர் இயைந்து இற்றது சீர் எனப்படுமே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சுரிதகம்</Keyword>
+    <Explanation>கலிப்பா, பரிபா ஆகியவற்றின் முடிநிலை உறுப்பு. அகவலாலோ வெண்பாவாலோ முடியும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>சூத்திரம்</Keyword>
+    <Explanation>பெரிய உருவத்தையும் கண்ணாடி தன்னுள் அடக்கிக்காட்டும். சூத்திரமும் கண்ணாடி நிழல்போல, அதனுள் அடங்கிய அரும்பெருள் கருத்தை, ஆராய்ந்து உணரவேண்டாமல் படித்த அளவிலேயே அதன் பொருள் மிக நன்றாக விளங்கும்படி, தெளிவாக அறியும்படி காட்டுவது சூத்திரமாகும்.,</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆடி நிழலின் அறியத் தோன்றி, நாடுதல் இன்றிப் பொருள்நனி விளங்க, யாப்பினுள் தோன்ற யாத்து அமைப்பதுவே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செந்தொடை</Keyword>
+    <Explanation>பிற தொகைகளோடு வேறுபட்டு, இயல்பாக அமைவனவற்றைப் புலவர்கள் செந்தொடை என்பார்கள்.</Explanation>
+    <Explanation1 />
+    <Noorpa>சொல்லிய தொடையொடு வேறுபட்டு இயலின், சொல்லியல் புலவர் அது செந்தொடை என்ப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செப்பலோசை</Keyword>
+    <Explanation>வெண்பாவின் ஓசை.</Explanation>
+    <Explanation1 />
+    <Noorpa>அஃது ஆன்று என்ப வெண்பா யாப்பே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செம்பொருள் அங்கதம்</Keyword>
+    <Explanation>வசையொடும் சொந்த விருப்பு வெறுப்போடும் பாடப்படுவது செம்பொருள் அங்கதமாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வசையொடும் நசையொடும் புணர்ந்தன் றாயின், அங்கதச் செய்யுள் என்மனார் புலவர்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செவியுறை வாழ்த்து</Keyword>
+    <Explanation>பெரியவர்களிடையே  பெரியவனாகத் தன்னைக் காட்டிக்கொள்ளாமல் பணிந்தொழுகுதல் ஒருவனுக்குக் கடமை என ஒருவரது செவிக்கண் சேருமாறு வலியுறுத்தி மொழிவது செவியுறை வாழ்த்தாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>செவியுறை தானே பொங்குதல் இன்றிப் புரையோர் நாப்பண் அவிதல் கடன் எனச் செவியுறுத்தன்றே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செவியுறைச் செய்யுள்</Keyword>
+    <Explanation>புகழொடும் பொருளொடும் புணர்ந்தன் றாயின், செவியுறைச் செய்யுள் அது என மொழிப</Explanation>
+    <Explanation1 />
+    <Noorpa>புகழொடும் பொருளொடும் புணர்ந்தன் றாயின், செவியுறைச் செய்யுள் அது என மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>செவிலி</Keyword>
+    <Explanation>மிக்க சிறப்பினையுடைய களவொழுக்கத்தைத் தலைவி சொல்வதற்கு உரியவள் செவிலித்தாய்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆய்பெருஞ் சிறப்பின் அருமறை கிளத்தலின், தாயெனப்படுவோள் செவிலியாகும்</Noorpa>
+    <Chapter>களவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தளை, தொடை</Keyword>
+    <Explanation>சீர்கள் ஒன்றுடன் ஒன்று தளைக்கப்படுவது தளை, தொடை</Explanation>
+    <Explanation1 />
+    <Noorpa>அடியுள்ளனவே தளையொடு தொடையே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>திணைக்குரிப் பொருள்</Keyword>
+    <Explanation>புணர்தல் பிரிதல் இருத்தல் இரங்கல் ஊடல்  இவற்றின் நிமித்தம்</Explanation>
+    <Explanation1 />
+    <Noorpa>புணர்தல் பிரிதல் இருத்தல் இரங்கல் ஊடல்  இவற்றின் நிமித்தம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தும்பை</Keyword>
+    <Explanation>தும்பை என்பது நெய்தல் நிலத்தின் புறமாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>தும்பை தானே நெய்தலது புறனே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>துள்ளலோசை</Keyword>
+    <Explanation>கலிப்பாவிற்கு உரிய ஓசை துள்ளலோசை.</Explanation>
+    <Explanation1 />
+    <Noorpa>துள்ளல் ஓசை கலியென மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>துறை</Keyword>
+    <Explanation>பல செய்திகள் வந்தாலும் அவை ஒரு குளத்தில் நீருண்ணும் துறைபோல, ஒருமுகப்பட்டு ஒரு செய்தியாவது துறை.</Explanation>
+    <Explanation1 />
+    <Noorpa>அவ்வவ மாக்களும் விலங்கும் அன்றிப், பிற அவண் வரினும் திறத்தின் நாடித் தத்தம் இயலான் மரபொடு முடியின் அத்திறந் தானே துறை எனப்படுமே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தூங்கலோசை</Keyword>
+    <Explanation>வஞ்சிப்பாவிற்கு உரியது. தூங்கலோசை</Explanation>
+    <Explanation1 />
+    <Noorpa>தூங்கல் ஓசை வஞ்சியாகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தொடை</Keyword>
+    <Explanation>மோனை, எதுகை, முரண், இயைபு என நான்கும், அத்தோடு அளபெடையும் சேர்ந்து ஐந்து வகையாகும் தொடை என்பது.</Explanation>
+    <Explanation1 />
+    <Noorpa>மோனை எதுகை முரணே இயைபு என நால்நெறி மரபின தொடை வகை என்ப… அளபெடை தலைப்பெய ஐந்தும் ஆகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>தோழி</Keyword>
+    <Explanation>செவிலியின் மகள் தோழி.</Explanation>
+    <Explanation1 />
+    <Noorpa>தோழி தானே செவிலியது  மகளே</Noorpa>
+    <Chapter>களவியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நற்றாய்</Keyword>
+    <Explanation>பெற்ற தாய்</Explanation>
+    <Explanation1 />
+    <Noorpa>கிழவன் தன்னொடும் கிழத்தி தன்னொடும், நற்றாய் கூறல் முற்றத் தோன்றாது</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நாடக வழக்கு</Keyword>
+    <Explanation>நாட்டகத்து நடைமுறையைக் கொண்டு மேடையில் கூத்தாக நாட்டுவது நாடகம் ஆகும்</Explanation>
+    <Explanation1 />
+    <Noorpa>நாடக வழக்கினும் உலகியல் வழக்கினும், பாடல் சான்ற புலனெறி வழக்கம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நிரை</Keyword>
+    <Explanation>குறில் இணை, குறில் நெடில், குறில் இணையும் ஒற்றும், குறில் நெடிலும் ஒற்றும் (எ.கா.) பல, பலா, கலம், கலாம். இது இருவகை உகரத்தோடும் வரும். குற்றுகர நிரைபு (எ.கா.) அலக்கு, மலாடு, பனாட்டு; முற்றுகர நிரைபு (எ.கா.) புணர்வு, உலாவு, உராய்வு</Explanation>
+    <Explanation1 />
+    <Noorpa>குறில் இணை, குறில் நெடில், ஒற்றொடு வருதலொடு .. நிரையும்..</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நிரைபு</Keyword>
+    <Explanation>குறில் இணை, குறில் நெடில், குறில் இணையும் ஒற்றும், குறில் நெடிலும் ஒற்றும் (எ.கா.) பல, பலா, கலம், கலாம். இது இருவகை உகரத்தோடும் வரும். குற்றுகர நிரை (எ.கா.) அலக்கு, மலாடு, பனாட்டு; முற்றுகர நிரை (எ.கா.) புணர்வு, உலாவு, உராய்வு</Explanation>
+    <Explanation1 />
+    <Noorpa>குறில் இணை, குறில் நெடில், ஒற்றொடு வருதலொடு .. நிரையும்.</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நூல்</Keyword>
+    <Explanation>ஒன்றைப்பற்றி எழுதும்போது முன்னும் பின்னும் மாறுபட்ட கருத்து வந்துவிடாமல், சொல்லவந்த பொருளை முன்பு தொகுத்துச்சொல்லி, அவ்வாறு சொல்லியபடி நிரல்பட வகுத்துக்காட்டி, அதனுள் நின்று விரிக்கும்படியான விரிந்து பரந்த கருத்தாழத்துடன் கூடி, நுட்பமாக விளக்குகின்ற ஒன்றே</Explanation>
+    <Explanation1 />
+    <Noorpa>முதலும் முடிவும் மாறுகோள் இன்றித் தொகையினும் வகையினும் பொருண்மை காட்டி, உள்நின்று அகன்ற உரையொடு பொருந்தி, நிண்ணிதின் விளக்கல்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நெடிலடி</Keyword>
+    <Explanation>15,16,17  எழுத்துக்களைக்கொண்டு அமைவது நெடிலடிகள் எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>மூவைதெழுதே நெடிலடிக்கு அளவே ஈரெழுத்து மிகுதலும் இயல்பென மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நெடுவெண் பாட்டு</Keyword>
+    <Explanation>நான்கு அடிகளின் மிக்க அடிகளால் வருவது நெடுவெண் பாட்டு எனப்படும். இதைப் பஃறொடை வெண்பா என்பர்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நெய்தல்</Keyword>
+    <Explanation>கடல்சார்ந்த பெருமணல் வெளியான நிலம்</Explanation>
+    <Explanation1 />
+    <Noorpa>வருணன் மேய பெருமணல் உலகம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நேர்</Keyword>
+    <Explanation>தனிக்குறில், தனிநெடில், குறிலும் ஒற்றும், நெடிலும் ஒற்றும். (எ.கா.) க, கா, கல், கால்  ; இது இருவகை உகரமொடு இணைந்தும் வரலாம். குற்றுகர நேர்பு (எ.கா.) கன்று, காசு, காற்று; முற்றுகர நேர்பு (எ.கா.) கல்லு, காவு, சார்பு</Explanation>
+    <Explanation1 />
+    <Noorpa>குறிலே, நெடிலே…. ஒற்றொடு வருதல் … இருவகை உகரமொடு இயைந்து அவை வரின்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நேர்பு</Keyword>
+    <Explanation>தனிக்குறில், தனிநெடில், குறிலும் ஒற்றும், நெடிலும் ஒற்றும். (எ.கா.) க, கா, கல், கால்</Explanation>
+    <Explanation1 />
+    <Noorpa>குறிலே,  நெடிலே, ஒற்றொடு வருதல்... இருவகை உகரமொடு இயைந்து அவை வரின்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>நோக்கு</Keyword>
+    <Explanation>மாத்திரை முதலாக அசை,சீர்,சொல்,அடி, பா அனைத்தையும் - அதாவது 'பாவின்' அனைத்துக் கூறுகளையும் ஆராய்ந்து, பாவின் நயங்களைத் தேடிக் கணுடுபிடித்தலே நோக்கு எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>மாத்திரை முதலா அடிநிலை காறும் , நோக்குதற் காரணம் நோக்கெனப்படும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>படலம்</Keyword>
+    <Explanation>ஓரினமாகிய நெறி இன்றி, பல இயல்களால் பொதுவான கருத்துக்குரிய மொழி தொடர்ந்து அமைவது படலம் ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒரு நெறி இன்றி விரவிய பொருளால், பொதுமொழி தொடரின் அது படலமாகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பண்ணத்தி</Keyword>
+    <Explanation>இலக்கிய வடிவான பாட்டுக்களுடன் கலந்த பொருளைப் பாடும் இயல்புடைய ஒரு வகை.</Explanation>
+    <Explanation1 />
+    <Noorpa>பாட்டிடைக் கலந்த பொருளவாகிப் பாட்டின் இயல பண்ணத்தி இயல்பே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பரிபாடல்</Keyword>
+    <Explanation>நான்கு பா வகைகளில் இன்ன பா உறுப்பு என இயலும் தன்மையின்றி, பொதுவாகப் பல பாக்ககளின் உறுப்புக்களும் அடிகளும் விரவி வரப் பாடப்படும். இது இசைப்பாட்டு ஆதலால் இவ்வாறு வரும்.மேலும் அகத்திணைக் காமமேயன்றி, புறத்திணையாகக் கருதக்கூடிய காமப் பகுதிகளும்</Explanation>
+    <Explanation1>பரிபாடலில் கலந்து வரும். இதில் நான்கு உறுப்புகள் - எருத்து, கொச்சகம், அராகம், சுரிதகம் ஆகிய நான்கு உறுப்புகளும் வரும்.('கொச்சகம், அராகம்,சுரிதகம்,எருத்தொடு செப்பிய நான்கும் தனக்கு உறுப்பாகக் காமங் கண்ணிய நிலைமைத் தாகும்')</Explanation1>
+    <Noorpa>பரிபாடல்லே தொகைநிலை வகையின், இது பா என்னும் இயல்நெறி இன்றிப் பொதுவாய் நிற்றற்கும் உரித்தென மொழிப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பழிகரப்பு</Keyword>
+    <Explanation>மொழி கரந்து சொல்லின் அது பழிகரப்பாகும்</Explanation>
+    <Explanation1 />
+    <Noorpa>மொழி கரந்து சொல்லின் அது பழிகரப்பாகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பள்ளி எழுச்சி</Keyword>
+    <Explanation>குற்றமற்ற நற்புகழைக் கருதியபடி உறங்கும் மன்னர்களை எழும்முதற்குச் சூதர்கள் பாடும் துயிட்டை நிலை.</Explanation>
+    <Explanation1 />
+    <Noorpa>தாவில் நல்லிசை கருதிய கிடந்தோர்க்குச் சூதர் ஏத்திய துயிலெடை நிலையும்</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பா வகை</Keyword>
+    <Explanation>ஆசிரியப்பா, வஞ்சிப்பா, வெண்பா, கலிப்பா எனத் தமிழ்ப் பா நான்கு வகைப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆசிரியம், வஞ்சி, வெண்பா, கலி என நால் இயற்று என்ப பாவகை விரியே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பாங்கன்</Keyword>
+    <Explanation>தோழமைக்குரிய வாயில்களுள் ஒருவன் பாங்கன். அவன் தோழன்.</Explanation>
+    <Explanation1 />
+    <Noorpa>தோழி தாயே பார்ப்பான் பாங்கன்</Noorpa>
+    <Chapter>கற்பியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பாடலுள் பயின்றவை</Keyword>
+    <Explanation>முதல் கரு உரிப்பொருள்</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பாடாண்திணை</Keyword>
+    <Explanation>பாடாண்திணை என்பது கைக்கிளைத்திணையின் புறமாகும்</Explanation>
+    <Explanation1 />
+    <Noorpa>பாடாண் பகுதி கைக்கிளைப் புறனே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பாட்டு</Keyword>
+    <Explanation>தனக்குரிய சீர்மையுடன் அமையுமானால், ஓரடிகூட பாட்டு எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அடியின் சிறப்பை பாட்டெனப்படுமே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பாணர்</Keyword>
+    <Explanation>யாழ் இசைத்துப் பாடுபவன்</Explanation>
+    <Explanation1 />
+    <Noorpa>கூத்தரும் பாணரும் பொருநரும் விறலியும்</Noorpa>
+    <Chapter>கற்பியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பால்கெழு கிளவி</Keyword>
+    <Explanation>ஒரு பாலரே தனித்துப் பேசுவது</Explanation>
+    <Explanation1 />
+    <Noorpa>பால்கெழு கிளவி நால்வர்க்கும் உரித்தே, நட்பின் நடக்கை ஆங்கலங் கடையே</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பிசி</Keyword>
+    <Explanation>ஒப்போடு புணர்ந்த உவமை கூறிப் புதிர் போடுவது ஒரு வகை. இதை விடுவிக்கவேண்டுமெனில் ஒப்புமைத்தன்மை தெரியவேண்டும். ஒன்றைச் சொன்ன அளவில் அதனோடு தொடர்புடையது தோன்றவேண்டும். இது மற்றொரு பிசி வகை.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒப்பொடு புணர்ந்த உவமத் தானும், தோன்றுவது கிளந்த துணிவினானும், என்று இருவகைத்தே பிசிவகை நிலையே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பிண்டம்</Keyword>
+    <Explanation>சூத்திரம், ஓத்து, படலம் என்னும் மூன்று உறுப்புகளையும் அடக்கிய தன்மையுடையதே பிண்டம்.</Explanation>
+    <Explanation1 />
+    <Noorpa>மூன்று உறுப்பு அடக்கிய தன்மைத்தாயின், தோன்று மொழிப் புலவர் அது பிண்டம் என்ப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>புறநிலை வாழ்த்து</Keyword>
+    <Explanation>எந்நாளும் காவலாகி அருள் செய்யும்படி வழிபடு தெய்வம் அல்லது குலதெய்வத்தை வாழ்த்துவது புறநிலை வாழ்த்தாகும். இது ஆசிரியத்தாலும் வெண்பாவாலும் பாடப்படும். கலிப்பா வகைகளும் வஞ்சிப்பாவாலும் இது பாடப் பெறாது.</Explanation>
+    <Explanation1 />
+    <Noorpa>வழிபடு தெய்வம் நிற்புறம் காப்பப், பழிதீர் செல்வமொடு வழிவழி சிறந்து, பொலிமின் என்னும் புறநிலை வாழ்த்தே, கலிநிலை வகையும் வஞ்சியும் பெறாஅ</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெருமங்கலம்</Keyword>
+    <Explanation>பிறந்தநாள் அன்று சினத்தைக் கைவிட்டு, நல்லருள் பல செய்து அதைச் சிறந்தநாளாகக் கொண்டாடுவது பெருமங்கலம் ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>சிறந்த நாளணி செற்றம் நீக்கிப் பிறந்தநாள் வயிற் பெருமங்கலமும்</Noorpa>
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பெருந்திணை</Keyword>
+    <Explanation>அகப்பொருள் திணை ஏழனுள் இறுதியாக அமைவது பெருந்திணை.</Explanation>
+    <Explanation1 />
+    <Noorpa>கைக்கிளை முதலாப் பெருந்திணை இறுவாய்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>பொழிப்புத்தொடை</Keyword>
+    <Explanation>ஒரு சீர் இடையிட்ட எதுகை பொழிப்புத்தொடை எனப்படும். முதற்சீரிலும் மூன்றாம் சீரிலும் வருவன.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஒரு சீர் இடையிட்டு எதுகை ஆயின், பொழிப்பென மொழிதல் புலவர் ஆறே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மண்ணுமங்கலம்</Keyword>
+    <Explanation>நிலைபெற்ற பகைவர் மதிலை அழித்து, பின்பு அதைப் புனித நீராட்டிப் பாடி வாழ்த்துவது மண்ணு மங்கலம்</Explanation>
+    <Explanation1 />
+    <Noorpa>மன்எயில் அழித்த மண்ணுமங்கலமும்</Noorpa>
+    <Chapter>புறத்திணையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மண்டிலம்</Keyword>
+    <Explanation>நான்கு சீர்களை உடைய அடி</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மந்திரம்</Keyword>
+    <Explanation>பொருள் மறைந்திருக்கும் அல்லது கருத்துப் பொதிந்திருக்குக்கும் மறைமொழியே மந்திரம். உள்ளுள்ள கருத்தைத் தேடிக் கண்டுகொள்ளுமாறு சொல்லப்படுவதாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>நிறைமொழி மாந்தர் ஆணையிற் கிளந்த மறைமொழி தானே மந்திரம் என்ப.</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மருட்பா</Keyword>
+    <Explanation>வெண்பா, ஆசிரியப்பா இரண்டினாலும் ஆகியது மருட்பா</Explanation>
+    <Explanation1 />
+    <Noorpa>மருட்பா ஏனை இருசார் அல்லது தான் இது என்னும் தனிநிலை இன்றே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மருட்பா ஓசை</Keyword>
+    <Explanation>மருட்பா ஏனை இருசார் அல்லது தான் இது என்னும் தனிநிலை இன்றே</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மருதம்</Keyword>
+    <Explanation>நீர்நிலைகள் நிறைந்த நிலம்</Explanation>
+    <Explanation1 />
+    <Noorpa>வேந்தன் மேய தீம்புனல் உலகம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மாட்டு</Keyword>
+    <Explanation>செய்யுளுக்குப் பொருள் கொள்ளும் முறைகளுள் ஒன்று மாட்டு என்பதாகும். செய்யுளில் சொற்கள் மாறிக் கிடந்தாலும் அவற்றைப் பொருளுக்குத் தக்கப் பொருத்திப் பயன் கொள்ளும்முறை மாட்டு என்பதாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அகன்று பொருள் கிடப்பினும் அணுகிய நிலையினும், இயன்று பொருள் முடியத் தந்தனர் உணர்த்தல் , மாட்டு என மொழிப பாட்டியல் வழக்கின்.</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முடுகியல்</Keyword>
+    <Explanation>வல்லொற்று இடம் பெறாமல் குறிலே வரப் பாடப்படும் பாடல் முடுகியல் ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter />
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முதல்</Keyword>
+    <Explanation>பாட்டுள்ளே வரும் நிலமும் பொழுதும் முதற்பொருள் எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>முதல் எனப்படுவது நிலம் பொழுது இரண்டின் இயல்பு</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முதல் நூல்</Keyword>
+    <Explanation>வினைகளின் நீங்கிய  விளங்கிய அறிவினையுடைய இறைவன் படைத்தது முதனூலாகும். இறைவன் அனைய முன்னோன் ஒருவனால் படைக்கப்பட்டதாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வினையின் நீங்கி விளங்கிய அறிவின் , முனைவன் கண்டது முதல் நூலாகும்</Noorpa>
+    <Chapter>மரபியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முதுமொழி</Keyword>
+    <Explanation>எப்பொழுதும் பழமொழியைக் காரணம்காட்டி, சொல்லவந்ததை நிறுவப் பயன்படுத்தும் அறிவுபொதிந்தது முதுமொழியாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>நுண்மையும் சுருக்கமும் ஒளியுடை மையும், மென்மையும் என்று இவை விளங்கத் தோன்றிக் குறித்த பொருளை முடித்தற்கு வரூஉம் ஏது நுதலிய முதுமொழி என்ப</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முரண்தொடை</Keyword>
+    <Explanation>சொல் அல்லது பொருள் முரண்படத் தொடுப்பது முரண்தொடை எனப்படும். (எ.கா.) சிறு x பெரு = சொல் முரண்; நீர் x தீ = பொருள்முரண்</Explanation>
+    <Explanation1 />
+    <Noorpa>மொழியினும் பொருளினும் முரணுதல் முரணே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முல்லை</Keyword>
+    <Explanation>காடுகள் நிறைந்த நிலம்</Explanation>
+    <Explanation1 />
+    <Noorpa>மாயோன் மேய காடுறை உலகம்</Noorpa>
+    <Chapter>அகத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>முன்னம்</Keyword>
+    <Explanation>சொல்லால் அறியாமல் மெய்ப்பாட்டால் அறிதல் முன்னம் ஆகும். முன்னத்து வழி நிகழ்வது சொல்லும் செயலும் ஆதலால் முன்னம் எனப்பட்டது. முன்மையாகத் தோன்றும் அகவுணர்வு.</Explanation>
+    <Explanation1 />
+    <Noorpa>இவ்விடத்து இம்மொழி இவர் இவர்க்கு உரிய என்று, அவ்விடத்து அவரவர்க்கு உரைப்பது முன்னம்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மெய்ப்பாடு</Keyword>
+    <Explanation>உள்ளத்து உண்டாகிய உணர்வு, மெய்யின் வழியாகப் பிறர்க்குப் புலப்படுதல் மெய்ப்பாடு ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>உய்துணர்வு இன்றித் தலைவரு பொருளான் , மெய்ப்பட முடிப்பது மெய்ப்பாடாகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>மோனை</Keyword>
+    <Explanation>ஒவ்வோர் அடியினுள்ளும் சீர்களின் முதல் எழுத்து ஒப்பது மோனை ஆகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>அடிதொறும் தலை யெழுத்து ஒப்பது மோனை</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>யாப்பு</Keyword>
+    <Explanation>எழுத்து முதலாக அசை சீர் அடி எனத் தொடர்புற்றுச் செறிந்து நிற்கும் அடியில் , படைப்பாளி தான் கருதிய பொருளை முற்றமுடிய அமையுமாறு செய்தல் யாப்பு எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>ழுத்து முதலா ஈண்டிய அடியில் , குறித்த பொருளை முடிய நாட்டல், யாப்பென மொழிப யாப்பறி புலவர்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வசை</Keyword>
+    <Explanation>வெளிப்படையாக ஒருவர் குற்றங்குறையைச் சொல்வது வசை எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>செம்பொருளாயின் வசை எனப்படும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வஞ்சிப்பா</Keyword>
+    <Explanation>ஆசிரிய நடையுடையது வஞ்சிப்பா.</Explanation>
+    <Explanation1 />
+    <Noorpa>ஆசிரிய நடைத்தே வஞ்சி</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வஞ்சி</Keyword>
+    <Explanation>வஞ்சித்திணை என்பது முல்லைத்திணையின் புறமாகும் ; வஞ்சிப்பா ஆசிரிய நடையுடையது.</Explanation>
+    <Explanation1 />
+    <Noorpa>வஞ்சி தானே முல்லையது புறனே; ஆசிரிய நடைத்தே வஞ்சி</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வஞ்சியடி</Keyword>
+    <Explanation>இரண்டு சீர்களை உடையது வஞ்சியடி.</Explanation>
+    <Explanation1 />
+    <Noorpa>வஞ்சியடியே இருசீர்த்தாகும்</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வஞ்சி உரிச்சீர்</Keyword>
+    <Explanation>வெண்பா உரிச்சீர் அல்லது வெண்சீர் எனப்பட்ட நான்கும் தவிர, ஏனைய மூவகைச்சீர் அனைத்தும் வஞ்சியுரிச்சீர் அல்லது வஞ்சிச்சீர் எனப்படும். அறுபது வஞ்சிச்சீர்கள் உண்டு.</Explanation>
+    <Explanation1 />
+    <Noorpa>வஞ்சிச்சீர் என வகை பெற்றனவே வெண்சீர் அல்லா மூவகை யான.</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வண்ணம்</Keyword>
+    <Explanation>நிறம். வளமை மிக்கது.</Explanation>
+    <Explanation1 />
+    <Noorpa>வண்ணம் வடிவே அளவே சுவையே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வழிநூல்</Keyword>
+    <Explanation>முதல்நூலின் வழியாக , அதனைப் பின்பற்றி எழுதப்படுவது வழிநூலாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வழி எனப்படுவது அதன் வழித்தாகும்</Noorpa>
+    <Chapter>மரபியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வள்ளி</Keyword>
+    <Explanation>வெட்சித் திணைத் துறைகளுள் ஒன்று.</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வனப்பு</Keyword>
+    <Explanation>செய்யுள் அழகு வகை</Explanation>
+    <Explanation1 />
+    <Noorpa />
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வாகை</Keyword>
+    <Explanation>வாகைத்திணை  என்பது பாலைத்திணையின் புறமாகும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வாகை தானே பாலையது புறனே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வாண்மங்கலம்</Keyword>
+    <Explanation>பகைவரை வென்ற வாளுக்கு மாலைசூட்டிப் பாடிக் கொண்டாடுவது வாண்மங்கலம்.</Explanation>
+    <Explanation1 />
+    <Noorpa>மாணார்ச் சுட்டிய வாள்மங்கலமும்</Noorpa>
+    <Chapter>புறத்திணையியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வாயுறை வாழ்த்து</Keyword>
+    <Explanation>வாய்ச்சொல்லாகிய மருந்தினால் கேட்போர் நலம்பெற வாழ்த்துவது வாயுறை வாழ்த்து எனப்படும்.</Explanation>
+    <Explanation1 />
+    <Noorpa>வாயுறை வாழ்த்தே, வயங்க நாடின், வேம்பும் கடுவும் போல வெஞ்சொல்தாங்குதல் இன்றி வழிநனி பயக்கும் என்று ஓம்படைக் கிளவியின் வாயுறுத் தற்றே</Noorpa>
+    <Chapter>செய்யுளியல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>விடை</Keyword>
+    <Explanation>பெற்றபிறகு அரசனது பெருஞ்செல்வத்தைப் புகழ்ந்து, உலக நடைன்றையில் தோன்றும் இருவகையான விடை பெறுதல், ஒன்று அரசனே விடை தந்து அனுப்புதல். மற்றொன்று பரிசிலர் தாமே விடைபெற்றுப் புறப்படுதல்.</Explanation>
+    <Explanation1 />
+    <Noorpa>நடைவயின் தோன்றும் இருவகை விடையும்</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+  <TechnicalTerm>
+    <Keyword>வெட்சி</Keyword>
+    <Explanation>வெட்சித் திணை என்பது குறிஞ்சித்திணையின் புறமாகும்</Explanation>
+    <Explanation1 />
+    <Noorpa>வெட்சி தானே குறிஞ்சியது புறனே</Noorpa>
+    <Chapter>புறத்திணை இயல்</Chapter>
+  </TechnicalTerm>
+</Tolkappiyam>
